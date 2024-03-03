@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Alescontrela.github.io/sitemap.xml
