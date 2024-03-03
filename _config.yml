@@ -1,1 +1,6 @@
 
+baseurl: /
+markdown: kramdown
+
+title: My Homepage
+description: share some useful skills and tips
