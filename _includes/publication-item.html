@@ -30,7 +30,7 @@
 					{% endif %}
 
 					{% if item.journal != false %}
-					<strong><i>{{ item.journal }}</i>></strong>
+					<strong><i>{{ item.journal }}</i></strong>
 					{% endif %}
 
 					{% if item.tags %}
@@ -43,7 +43,8 @@
 					{% if item.media %}
 					<br>
 					{% for tag in item.media %}
-					<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank"{% endif %}>{{ tag.tag }}</a>
+<!--					<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank"{% endif %}>{{ tag.tag }}</a>-->
+					<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank" style="color: yellow;"{% endif %}>{{ tag.tag }}</a>
 					{% endfor %}
 					{% endif %}
 
