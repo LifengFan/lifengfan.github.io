@@ -2,51 +2,62 @@
   authors: 
     - name: Lixing Niu
     - name: Fangwei Zhong
-      website: 
+      website: http://fangweizhong.xyz
     - name: Haochen Zhao
     - name: Yisen Wang
+      website: https://yisenwang.github.io
     - name: Xue Feng
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io
   year: 2024
+  conference: Under Review.
   tags:
-    - tag: Under Review
+    - tag: Paper (Coming Soon)
   image: snowwhite.png
 
 
 - title: "Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities"
   authors:
     - name: Junqi Wang*
+      website: https://scholar.google.com/citations?pli=1&authuser=3&user=kDjBPF4AAAAJ
     - name: Chunhui Zhang*
     - name: Jiapeng Li
+      website: https://scholar.google.com.tw/citations?user=PbqDF74AAAAJ&hl=pl
     - name: Yuxi Ma
+      website: https://mayuxi.com
     - name: Lixing Niu
     - name: Jiaheng Han
     - name: Yujia Peng<sup>&#x2709;</sup>
+      website: https://yujiapeng.myfreesites.net/
     - name: Yixin Zhu<sup>&#x2709;</sup>
+      website: https://yzhu.io/
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2024
+  conference: Under Review.
   tags:
-    - tag: Under Review
     - tag: Paper (Coming soon)
   image: ft_iip.png
-
 
 
 - title: "Learning Concept-Based Causal Transitions for Visual Planning"
   authors:
     - name: Yilue Qian
+      website: https://tongclass.ac.cn/author/yilue-qian/
     - name: Peiyu Yu
+      website: https://scholar.google.com/citations?user=heHn9fEAAAAJ&hl=en
     - name: Yingnian Wu
+      website: http://www.stat.ucla.edu/~ywu/
     - name: Yao Su
+      website: https://yaosu.info
     - name: Wei Wang<sup>&#x2709;</sup>
+      website: https://cognn.com
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2023
+  conference: arXiv, 2023. Under Review.
   tags:
-    - tag: Under Review
-    - tag: arXiv
+    - tag: Paper
       link: https://browse.arxiv.org/pdf/2310.03325.pdf
   image: symbol_reasoning.png
 
@@ -54,6 +65,7 @@
 - title: "Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households"
   authors:
     - name: Zhihao Cao*
+      website: https://zhihaocao.site/
     - name: Zidong Wang*
     - name: Siwen Xie
     - name: Anji Liu
@@ -61,8 +73,8 @@
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2024
+  conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
   tags:
-    - tag: CVPR
     - tag: Paper (Coming soon)
   image: help_intro.png
 
@@ -75,11 +87,12 @@
     - name: Ping Wei
       website: https://gr.xjtu.edu.cn/web/pingwei
     - name: Wenjuan Han
+      website: https://winniehan.github.io/#teaching
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2023
+  conference:  The IEEE International Conference on Computer Vision (ICCV), 2023. <font color="red"><strong>(Oral)</strong></font>
   tags:
-    - tag: ICCV
     - tag: Paper
       link: assets/files/iccv23/03185.pdf
     - tag: Supp
@@ -89,19 +102,26 @@
 - title: "The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions"
   authors:
     - name: Yujia Peng
+      website: https://yujiapeng.myfreesites.net/
     - name: Jiaheng Han
     - name: Zhenliang Zhang
+      website: https://www.zlz.link
     - name: <strong>Lifeng Fan</strong>
       website: https://lifengfan.github.io/
     - name: Tengyu Liu
+      website: https://tengyu.ai/
     - name: Siyuan Qi
+      website: https://siyuanqi.github.io/
     - name: Xue Feng
     - name: Yuxi Ma
+      website: https://mayuxi.com
     - name: Yizhou Wang
+      website: https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
+      website: https://zhusongchun.net/
   year: 2023
+  journal: Engineering, 2023.
   tags:
-    - tag: Engineer
     - tag: Paper
       link: https://www.sciencedirect.com/science/article/pii/S209580992300293X
   image: engineering_tongtest.png
@@ -113,16 +133,16 @@
     - name: <strong>Lifeng Fan</strong>
       website: https://lifengfan.github.io/
     - name: Manjie Xu
+      website: https://mjtsu.github.io/
     - name: Zhihao Cao
+      website: https://zhihaocao.site/
     - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      website: http://www.stat.ucla.edu/~sczhu/
+      website: https://zhusongchun.net/
   year: 2022
-  tags:
-    - tag: CAAI Artificial Intelligence Research
-    - tag: Paper
-      link: https://www.sciopen.com/article/10.26599/AIR.2022.9150010
+  journal: CAAI Artificial Intelligence Research, 2022.
+  media:
     - tag: 中国科学报/科学网1
       link: https://news.sciencenet.cn/htmlpaper/2023/3/202332216433847780313.shtm
     - tag: 中国科学报/科学网2
@@ -137,6 +157,9 @@
       link: https://mp.weixin.qq.com/s/czqIBh1HHsFg6609VtBXoQ
     - tag: 北大AI院官微
       link: https://mp.weixin.qq.com/s/VgA_dJ8rR__vziR4XJhvUg
+  tags:
+    - tag: Paper
+      link: https://www.sciopen.com/article/10.26599/AIR.2022.9150010
   image: asi.png
 
   
@@ -147,18 +170,18 @@
     - name: Sirui Xie*
       website: https://siruixie.com/
     - name: <strong>Lifeng Fan</strong>
-      website: lifengfan.github.io
+      website: https://lifengfan.github.io/
     - name: Tao Gao
       website: http://www.stat.ucla.edu/~taogao/
     - name: Jungseock Joo
       website: https://www.jsjoo.com/
     - name: Song-Chun Zhu
-      website: http://www.stat.ucla.edu/~sczhu/
+      website: https://zhusongchun.net/
     - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
   year: 2022
+  conference: Conference on Neural Information Processing Systems (NeurIPS), 2022.
   tags:
-    - tag: NeurIPS
     - tag: Paper
       link: https://arxiv.org/abs/2111.14210
     - tag: Web
@@ -167,28 +190,32 @@
 
 
 - title: "A Hierarchical Computational Framework for Social Interaction Understanding: Interactiveness, Shared Attention, Gaze Communication and Triadic Belief Dynamics"
+  authors:
+    - name: <strong>Lifeng Fan</strong>
+      website: https://lifengfan.github.io/
   year: 2021
+  journal: Ph.D. Dissertation
   tags:
-    - tag: Ph.D. Dissertation
     - tag: Paper
       link: https://escholarship.org/content/qt7mn110r0/qt7mn110r0.pdf
-
   image: thesis/ucla_logo.png
 
 
 - title: "GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning"
   authors:
     - name: Zilong Zheng
+      website: https://zilongzheng.github.io/
     - name: Shuwen Qiu
+      website: https://janetalready.github.io/
     - name: <strong>Lifeng Fan</strong>
-      link: lifengfan.github.io
+      link: https://lifengfan.github.io/
     - name: Yixin Zhu
       link: https://yzhu.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
   year: 2021
+  conference: ACL-Findings, 2021.
   tags:
-    - tag: ACL-Findings
     - tag: Paper
       link: https://aclanthology.org/2021.findings-acl.182.pdf
     - tag: Project
@@ -198,21 +225,25 @@
 - title: "Learning Triadic Belief Dynamics in Nonverbal Communication from Videos"
   authors:
     - name: <strong>Lifeng Fan*</strong>
-      link: lifeng.github.io
+      link: https://lifengfan.github.io/
     - name: Shuwen Qiu*
       link: https://janetalready.github.io/
     - name: Zilong Zheng
-      link: http://web.cs.ucla.edu/~zilongzheng/
+      link: https://zilongzheng.github.io/
     - name: Tao Gao
       link: http://www.stat.ucla.edu/~taogao/
     - name: Song-Chun Zhu
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
     - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
   year: 2021
+  conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. <font color="red"><strong>(Oral)</strong></font>
+  media:
+    - tag: MIT科技评论
+      link: https://www.mittrchina.com/news/detail/9677
+    - tag: DeepTech
+      link: https://www.sohu.com/a/473511303_354973
   tags:
-    - tag: CVPR
-    - tag: <font color="red"><strong>(Oral)</strong></font>
     - tag: Paper
       link: assets/files/cvpr21/TBD_paper.pdf
     - tag: Supp
@@ -223,10 +254,6 @@
       link: https://docs.google.com/forms/d/e/1FAIpQLSe3v-qopGWjx3ZcrCzp7ReRf7VadBuVMhMXCsMe1z3qFVcGvA/viewform?usp=pp_url
     - tag: Demo
       link: https://www.dropbox.com/s/nqai1z32bi66zuy/04411-video.mp4?dl=0
-    - tag: MIT科技评论
-      link: https://www.mittrchina.com/news/detail/9677
-    - tag: DeepTech
-      link: https://www.sohu.com/a/473511303_354973
   image: cvpr21/motivation.png
 
 
@@ -237,7 +264,7 @@
     - name: Tao Gao
       link: http://www.stat.ucla.edu/~taogao/
     - name: <strong>Lifeng Fan</strong>
-      link: lifeng.github.io
+      link: https://lifengfan.github.io/
     - name: Siyuan Huang
       link: https://siyuanhuang.com/
     - name: Mark Edmonds
@@ -249,17 +276,16 @@
     - name: Chi Zhang
       link: http://wellyzhang.github.io/
     - name: Siyuan Qi
-      link: http://web.cs.ucla.edu/~syqi/
+      link: https://siyuanqi.github.io/
     - name: Yingnian Wu
       link: http://www.stat.ucla.edu/~ywu/
     - name: Joshua B. Tenenbaum
       link: https://web.mit.edu/cocosci/josh.html
     - name: Song-Chun Zhu
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
   year: 2020
+  journal: Engineering, Special Issue on Artificial Intelligence, 2020.
   tags:
-    - tag: Engineering
-    - tag: Special Issue on Artificial Intelligence
     - tag: Paper
       link: assets/files/dark/dark.pdf
   image: dark/motivation.png
@@ -268,21 +294,22 @@
 - title: "Understanding False-Belief by Joint Inference of Object States, Robot Knowledge, and Human (False-)Beliefs"
   authors:
     - name: Tao Yuan
+      website: https://scholar.google.com/citations?user=ZqfUSEkAAAAJ&hl=zh-CN
     - name: Hangxin Liu
       link: https://liuhx111.github.io/
     - name: <strong>Lifeng Fan</strong>
-      link: lifeng.github.io
+      link: https://lifengfan.github.io/
     - name: Zilong Zheng
-      link: http://web.cs.ucla.edu/~zilongzheng/
+      link: https://zilongzheng.github.io/
     - name: Tao Gao
       link: http://www.stat.ucla.edu/~taogao/
     - name: Yixin Zhu
       link: https://yzhu.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
   year: 2020
+  conference: The IEEE International Conference on Robotics and Automation (ICRA), 2020.
   tags:
-    - tag: ICRA
     - tag: Paper
       link: assets/files/icra20/icra.pdf
     - tag: Demo
@@ -293,17 +320,18 @@
 - title: "Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning"
   authors:
     - name: <strong>Lifeng Fan*</strong>
-      link: lifeng.github.io
+      link: https://lifengfan.github.io/
     - name: Wenguan Wang*
       link: https://sites.google.com/view/wenguanwang/
     - name: Siyuan Huang
       link: https://siyuanhuang.com/
     - name: Xinyu Tang
+      website: https://txy15.github.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
   year: 2019
+  conference: The IEEE International Conference on Computer Vision (ICCV), 2019.
   tags:
-    - tag: ICCV
     - tag: Paper
       link: assets/files/iccv19/ICCV19_Gaze_Communication.pdf
     - tag: Code
@@ -314,7 +342,7 @@
 - title: "Inferring Shared Attention in Social Scene Videos"
   authors:
     - name: <strong>Lifeng Fan*</strong>
-      link: lifeng.github.io
+      link: https://lifengfan.github.io/
     - name: Yixin Chen*
       link: https://yixchen.github.io/
     - name: Ping Wei<sup>&#x2709;</sup>
@@ -322,10 +350,10 @@
     - name: Wenguan Wang
       link: https://sites.google.com/view/wenguanwang/
     - name: Song-Chun Zhu
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
   year: 2018
+  conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
   tags:
-    - tag: CVPR
     - tag: Paper
       link: assets/files/cvpr18/CVPR18_SharedAttention.pdf
     - tag: Code
@@ -340,14 +368,14 @@
     - name: Yujia Peng*
       link: https://yujiapeng.com/
     - name: <strong>Lifeng Fan</strong>
-      link: lifeng.github.io
+      link: https://lifengfan.github.io/
     - name: Hongjing Lu
       link: http://cvl.psych.ucla.edu/
     - name: Song-Chun Zhu
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
   year: 2018
+  journal: Topics in Cognitive Science, 2018.
   tags:
-    - tag: Topics in Cognitive Science
     - tag: Paper
       link: assets/files/cogsci17/topics.pdf
   image: cogsci17/topics_teaser.jpg
@@ -360,15 +388,14 @@
     - name: Yujia Peng*
       link: https://yujiapeng.com/
     - name: <strong>Lifeng Fan</strong>
-      link: lifeng.github.io
+      link: https://lifengfan.github.io/
     - name: Hongjing Lu
       link: http://cvl.psych.ucla.edu/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: http://www.stat.ucla.edu/~sczhu/
+      link: https://zhusongchun.net/
   year: 2017
+  conference: The 39th Annual Meeting of the Cognitive Science Society (CogSci), 2017. <font color="red"><strong>(Computational Modeling Prize)</strong></font> <br/>
   tags:
-    - tag: CogSci
-    - tag: <font color="red"><strong>Computational Modeling Prize</strong></font> <br/>
     - tag: Paper
       link: assets/files/cogsci17/cogsci.pdf
     - tag: Project
