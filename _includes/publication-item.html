@@ -1,4 +1,4 @@
-<article class="media">
+<!-- <article class="media">
 	<div class="row no-gutters">
 
 		<!-- 图片列 -->
@@ -35,4 +35,31 @@
 		</div>
 		
 	</div>
+</article> -->
+
+<!-- {% for item in site.data.papers %} <!-- 假设您的 papers 数据存储在 site.data.papers 中 --> -->
+<article class="media">
+    <div class="row no-gutters">
+        <!-- 图片列 -->
+        <div class="col-sm-4 mx-auto my-auto">
+            <img src="{{ item.image }}" class="card-img" style="max-width: 100%;">
+        </div>
+        <!-- 文本列 -->
+        <div class="col-sm-8">
+            <div class="card-body">
+                <div class="title">
+                    <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+                </div>
+                <div class="author">
+                    {% for author in item.authors %}
+                    <span>{{ author.name }}</span>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </div>
+                <div class="periodical">{{ item.journal }}, {{ item.year }}</div>
+                <!-- 其他信息，如链接等 -->
+            </div>
+        </div>
+    </div>
 </article>
+{% endfor %}
+
