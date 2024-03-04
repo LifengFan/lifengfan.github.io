@@ -15,11 +15,11 @@
 					{% if item.journal != false %}
 					<i>{{ item.journal }}</i>
 					{% endif %}
-					{{ item.year }}
+<!--					{{ item.year }}-->
 					<br>
 					{% for author in item.authors %}
-					{% if author.orcid %}
-					<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="https://orcid.org/{{ author.orcid }}" target="_blank">{{ author.name }} <sup><i class="fab fa-orcid"></i></sup></a>
+					{% if author.website %}
+					<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="{{ author.website }}" target="_blank">{{ author.name }} <sup><i class="fab fa-orcid"></i></sup></a>
 
 					{% else %}
 					<span class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}">{{ author.name }}</span>
