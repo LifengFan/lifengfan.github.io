@@ -208,11 +208,11 @@
     - name: Shuwen Qiu
       website: https://janetalready.github.io/
     - name: <strong>Lifeng Fan</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Yixin Zhu
-      link: https://yzhu.io/
+      website: https://yzhu.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
   year: 2021
   conference: ACL-Findings, 2021.
   tags:
@@ -225,15 +225,15 @@
 - title: "Learning Triadic Belief Dynamics in Nonverbal Communication from Videos"
   authors:
     - name: <strong>Lifeng Fan*</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Shuwen Qiu*
-      link: https://janetalready.github.io/
+      website: https://janetalready.github.io/
     - name: Zilong Zheng
-      link: https://zilongzheng.github.io/
+      website: https://zilongzheng.github.io/
     - name: Tao Gao
-      link: http://www.stat.ucla.edu/~taogao/
+      website: http://www.stat.ucla.edu/~taogao/
     - name: Song-Chun Zhu
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
     - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
   year: 2021
@@ -260,29 +260,29 @@
 - title: "Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Human-like Commonsense"
   authors:
     - name: Yixin Zhu<sup>&#x2709;</sup>
-      link: https://yzhu.io/
+      website: https://yzhu.io/
     - name: Tao Gao
-      link: http://www.stat.ucla.edu/~taogao/
+      website: http://www.stat.ucla.edu/~taogao/
     - name: <strong>Lifeng Fan</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Siyuan Huang
-      link: https://siyuanhuang.com/
+      website: https://siyuanhuang.com/
     - name: Mark Edmonds
-      link: http://www.mjedmonds.com/
+      website: http://www.mjedmonds.com/
     - name: Hangxin Liu
-      link: https://liuhx111.github.io/
+      website: https://liuhx111.github.io/
     - name: Feng Gao
-      link: https://fen9.github.io/
+      website: https://fen9.github.io/
     - name: Chi Zhang
-      link: http://wellyzhang.github.io/
+      website: http://wellyzhang.github.io/
     - name: Siyuan Qi
-      link: https://siyuanqi.github.io/
+      website: https://siyuanqi.github.io/
     - name: Yingnian Wu
-      link: http://www.stat.ucla.edu/~ywu/
+      website: http://www.stat.ucla.edu/~ywu/
     - name: Joshua B. Tenenbaum
-      link: https://web.mit.edu/cocosci/josh.html
+      website: https://web.mit.edu/cocosci/josh.html
     - name: Song-Chun Zhu
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
   year: 2020
   journal: Engineering, Special Issue on Artificial Intelligence, 2020.
   tags:
@@ -296,17 +296,17 @@
     - name: Tao Yuan
       website: https://scholar.google.com/citations?user=ZqfUSEkAAAAJ&hl=zh-CN
     - name: Hangxin Liu
-      link: https://liuhx111.github.io/
+      website: https://liuhx111.github.io/
     - name: <strong>Lifeng Fan</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Zilong Zheng
-      link: https://zilongzheng.github.io/
+      website: https://zilongzheng.github.io/
     - name: Tao Gao
-      link: http://www.stat.ucla.edu/~taogao/
+      website: http://www.stat.ucla.edu/~taogao/
     - name: Yixin Zhu
-      link: https://yzhu.io/
+      website: https://yzhu.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
   year: 2020
   conference: The IEEE International Conference on Robotics and Automation (ICRA), 2020.
   tags:
@@ -320,15 +320,15 @@
 - title: "Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning"
   authors:
     - name: <strong>Lifeng Fan*</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Wenguan Wang*
-      link: https://sites.google.com/view/wenguanwang/
+      website: https://sites.google.com/view/wenguanwang/
     - name: Siyuan Huang
-      link: https://siyuanhuang.com/
+      website: https://siyuanhuang.com/
     - name: Xinyu Tang
       website: https://txy15.github.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
   year: 2019
   conference: The IEEE International Conference on Computer Vision (ICCV), 2019.
   tags:
@@ -342,15 +342,15 @@
 - title: "Inferring Shared Attention in Social Scene Videos"
   authors:
     - name: <strong>Lifeng Fan*</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Yixin Chen*
-      link: https://yixchen.github.io/
+      website: https://yixchen.github.io/
     - name: Ping Wei<sup>&#x2709;</sup>
       website: https://gr.xjtu.edu.cn/web/pingwei
     - name: Wenguan Wang
-      link: https://sites.google.com/view/wenguanwang/
+      website: https://sites.google.com/view/wenguanwang/
     - name: Song-Chun Zhu
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
   year: 2018
   conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
   tags:
@@ -364,15 +364,15 @@
 - title: "Perception of Human Interaction Based on Motion Trajectories: from Aerial Videos to Decontextualized Animations"
   authors:
     - name: Tianmin Shu*<sup>&#x2709;</sup>
-      link: https://www.tshu.io/
+      website: https://www.tshu.io/
     - name: Yujia Peng*
-      link: https://yujiapeng.com/
+      website: https://yujiapeng.com/
     - name: <strong>Lifeng Fan</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Hongjing Lu
-      link: http://cvl.psych.ucla.edu/
+      website: http://cvl.psych.ucla.edu/
     - name: Song-Chun Zhu
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
   year: 2018
   journal: Topics in Cognitive Science, 2018.
   tags:
@@ -384,15 +384,15 @@
 - title: "Inferring Human Interaction from Motion Trajectories in Aerial Videos"
   authors:
     - name: Tianmin Shu*
-      link: https://www.tshu.io/
+      website: https://www.tshu.io/
     - name: Yujia Peng*
-      link: https://yujiapeng.com/
+      website: https://yujiapeng.com/
     - name: <strong>Lifeng Fan</strong>
-      link: https://lifengfan.github.io/
+      website: https://lifengfan.github.io/
     - name: Hongjing Lu
-      link: http://cvl.psych.ucla.edu/
+      website: http://cvl.psych.ucla.edu/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      link: https://zhusongchun.net/
+      website: https://zhusongchun.net/
   year: 2017
   conference: The 39th Annual Meeting of the Cognitive Science Society (CogSci), 2017. <font color="red"><strong>(Computational Modeling Prize)</strong></font> <br/>
   tags:
