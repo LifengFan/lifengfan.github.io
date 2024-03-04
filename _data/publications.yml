@@ -63,6 +63,8 @@
     - tag: CVPR
     - tag: Paper (Coming soon)
 
+
+
 - title: "IntentQA: Context-aware Video Intent Reasoning"
   authors:
     - name: Jiapeng Li
@@ -169,7 +171,7 @@
     - tag: Paper
       link: https://escholarship.org/content/qt7mn110r0/qt7mn110r0.pdf
 
-- title: GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning
+- title: "GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning"
 
   authors:
     - name: Zilong Zheng
@@ -340,7 +342,7 @@
       link: http://www.stat.ucla.edu/~sczhu/
   year: 2018
   tags:
-    - tag: Topics in Cognitive Science, 10(1): 225 - 241
+    - tag: Topics in Cognitive Science
     - tag: Paper
       link: assets/files/cogsci17/topics.pdf
 
