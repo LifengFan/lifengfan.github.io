@@ -48,7 +48,7 @@
 #     type: fab
 
 - name: Resume
-  link: 
+  link: {{site.baseurl}}/assets/images/profile.png
   icon:
     source: fa
     name: fa-file
