@@ -46,6 +46,13 @@
 #     source: fa
 #     name: fa-orcid
 #     type: fab
+
+- name: Resume
+  link: 
+  icon:
+    source: fa
+    name: fa-file
+    type: far
     
 - name: Email
   link: mailto:lfan@ucla.edu
