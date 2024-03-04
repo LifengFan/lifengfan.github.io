@@ -2,11 +2,11 @@
 	<div class="media-content">
 		<div class="content">
 		<p>
-		<strong>{{ item.title }}</strong>,
+		<strong>{{ item.title }}</strong>
 		{% if item.journal != false %}
-			<i>{{ item.journal }}</i>,
+			<i>{{ item.journal }}</i>
 		{% endif %} 
-		{{ item.year }}.
+		{{ item.year }}
 		<br>
 		{% for author in item.authors %}
 			{% if author.orcid %}
