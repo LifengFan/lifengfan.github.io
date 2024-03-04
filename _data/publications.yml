@@ -91,12 +91,13 @@
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2023
-  conference:  The IEEE International Conference on Computer Vision (ICCV), 2023. <font color="red"><strong>(Oral)</strong></font>
+  conference:  The IEEE International Conference on Computer Vision (ICCV), 2023.
   tags:
     - tag: Paper
       link: assets/files/iccv23/03185.pdf
     - tag: Supp
       link: assets/files/iccv23/03185-supp.pdf
+    - tag: <font color="red"><strong>Oral</strong></font>
   image: iccv23_teaser.png
 
 - title: "The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions"
@@ -237,7 +238,7 @@
     - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
   year: 2021
-  conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. <font color="red"><strong>(Oral)</strong></font>
+  conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
   media:
     - tag: MIT科技评论
       link: https://www.mittrchina.com/news/detail/9677
@@ -254,6 +255,7 @@
       link: https://docs.google.com/forms/d/e/1FAIpQLSe3v-qopGWjx3ZcrCzp7ReRf7VadBuVMhMXCsMe1z3qFVcGvA/viewform?usp=pp_url
     - tag: Demo
       link: https://www.dropbox.com/s/nqai1z32bi66zuy/04411-video.mp4?dl=0
+    - tag: <font color="red"><strong>Oral</strong></font>
   image: cvpr21/motivation.png
 
 
@@ -394,11 +396,12 @@
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
       website: https://zhusongchun.net/
   year: 2017
-  conference: The 39th Annual Meeting of the Cognitive Science Society (CogSci), 2017. <font color="red"><strong>(Computational Modeling Prize)</strong></font> <br/>
+  conference: The 39th Annual Meeting of the Cognitive Science Society (CogSci), 2017.
   tags:
     - tag: Paper
       link: assets/files/cogsci17/cogsci.pdf
     - tag: Project
       link: https://www.tshu.io/HeiderSimmel/CogSci17/
+    - tag: <font color="red"><strong>Computational Modeling Prize</strong></font>
   image: cogsci17/cogsci17_teaser.png
 
