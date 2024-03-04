@@ -8,7 +8,14 @@ nav_id: nav_blog
 	<div id="blog_posts" ></div>
 </div>
 
-<!-- <script src="{{site.baseurl}}/assets/js/rss_medium.js"}}></script> -->
+<!-- <script src="{{site.baseurl}}/assets/js/rss_medium.js"}}></script>-->
+
+
+{% assign items = site.posts | sort: 'order' %}
+{% for item in items %}
+{% assign side = forloop.index0 | modulo: 2 %}
+{% include left_right.html %}
+{% endfor %}
 
 
 
