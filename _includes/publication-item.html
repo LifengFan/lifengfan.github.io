@@ -27,10 +27,10 @@
 
 					{% if item.conference != false %}
 					<i>{{ item.conference }}</i>
+					{% endif %}
 
-					{% elseif item.journal != false %}
+					{% if item.journal != false %}
 					<i>{{ item.journal }}</i>
-
 					{% endif %}
 
 					{% if item.tags %}
