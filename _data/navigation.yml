@@ -16,7 +16,7 @@
 # - name: Events
 #   link: /events.html
 #   id: nav_events
-# - name: About me
-#   link: /about.html
-#   id: nav_about
+- name: Fun Stuff
+  link: /about.html
+  id: nav_about
 
