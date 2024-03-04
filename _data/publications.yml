@@ -8,13 +8,40 @@
     - name: Xue Feng
     - name: <strong>Lifeng Fan†</strong>
       website: https://lifengfan.github.io
+  tags:
+    - tag: Under Review
 
-  year: 2024
-  # journal: "IEEE Access"
-  # image: "/assets/files/snowwhite.png"
+
+- title: "Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities"
+  authors:
+    - name: Junqi Wang*
+    - name: Chunhui Zhang*
+    - name: Jiapeng Li
+    - name: Yuxi Ma
+    - name: Lixing Niu
+    - name: Jiaheng Han
+    - name: Yujia Peng†
+    - name: Yixin Zhu†
+    - name: Lifeng Fan†
+
+  tags:
+    - tag: Under Review
+    - tag: Paper (Coming soon)
+
+
+
+- title: "Learning Concept-Based Causal Transitions for Visual Planning"
+  authors:
+    - name: Yilue Qian
+    - name: Peiyu Yu
+    - name: Yingnian Wu
+    - name: Yao Su
+    - name: Wei Wang†
+    - name: Lifeng Fan†
+
+  year: 2023
   tags:
     - tag: Under Review
     - tag: arXiv
-      link: 
-
-
+      link: https://browse.arxiv.org/pdf/2310.03325.pdf
+  
