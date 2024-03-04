@@ -1,24 +1,20 @@
-- title: "RGB-D-Fusion: Image Conditioned Depth Diffusion of Humanoid Subjects"
-  authors:
-    - name: Sascha Kirch
-      orcid: 0000-0002-5578-7555
-    - name: Valeria Olyunina
-      orcid: 0009-0000-9766-5057
-    - name: Jan Ondřej
-      orcid: 0000-0002-5409-1521
-    - name: Rafael Pagés
-      orcid: 0000-0002-5691-9580
-    - name: Clara Pérez-Molina
-      orcid: 0000-0001-8260-4155
-    - name: Sergio Martín
-      orcid: 0000-0002-4118-0234
-  year: 2023
-  journal: "IEEE Access"
+- title: "Queen or Dwarf? Theory of Mind Matters in Communication-dependent and Hidden-Role Environments"
+  authors: 
+    - name: Lixing Niu
+    - name: Fangwei Zhong
+      website: 
+    - name: Haochen Zhao
+    - name: Yisen Wang
+    - name: Xue Feng
+    - name: Lifeng Fan†
+      website: https://lifengfan.github.io
+      
+
+  year: 2024
+  # journal: "IEEE Access"
   tags:
-    - tag: IEEE ACCESS
-      link: https://ieeexplore.ieee.org/document/10239167
+    - tag: Under Review
     - tag: arXiv
-      link: https://arxiv.org/abs/2307.15988
-    - tag: GitHub
-      link: https://github.com/sascha-kirch/rgb-d-fusion
+      link: 
+
 
