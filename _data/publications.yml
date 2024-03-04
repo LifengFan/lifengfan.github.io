@@ -94,9 +94,9 @@
   conference:  The IEEE International Conference on Computer Vision (ICCV), 2023.
   tags:
     - tag: Paper
-      link: assets/files/iccv23/03185.pdf
+      link: assets/paper/iccv23/03185.pdf
     - tag: Supp
-      link: assets/files/iccv23/03185-supp.pdf
+      link: assets/paper/iccv23/03185-supp.pdf
     - tag: <font color="red"><strong>Oral</strong></font>
   image: iccv23_teaser.png
 
@@ -246,9 +246,9 @@
       link: https://www.sohu.com/a/473511303_354973
   tags:
     - tag: Paper
-      link: assets/files/cvpr21/TBD_paper.pdf
+      link: assets/paper/cvpr21/TBD_paper.pdf
     - tag: Supp
-      link: assets/files/cvpr21/TBD_supp.pdf
+      link: assets/paper/cvpr21/TBD_supp.pdf
     - tag: Code
       link: https://github.com/LifengFan/Triadic-Belief-Dynamics
     - tag: Dataset
@@ -289,7 +289,7 @@
   journal: Engineering, Special Issue on Artificial Intelligence, 2020.
   tags:
     - tag: Paper
-      link: assets/files/dark/dark.pdf
+      link: assets/paper/dark/dark.pdf
   image: dark/motivation.png
 
 
@@ -313,7 +313,7 @@
   conference: The IEEE International Conference on Robotics and Automation (ICRA), 2020.
   tags:
     - tag: Paper
-      link: assets/files/icra20/icra.pdf
+      link: assets/paper/icra20/icra.pdf
     - tag: Demo
       link: https://vimeo.com/391734593
   image: icra20/teaser.png
@@ -335,7 +335,7 @@
   conference: The IEEE International Conference on Computer Vision (ICCV), 2019.
   tags:
     - tag: Paper
-      link: assets/files/iccv19/ICCV19_Gaze_Communication.pdf
+      link: assets/paper/iccv19/ICCV19_Gaze_Communication.pdf
     - tag: Code
       link: https://github.com/LifengFan/Human-Gaze-Communication
   image: iccv19/iccv19_teaser.jpg
@@ -357,7 +357,7 @@
   conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
   tags:
     - tag: Paper
-      link: assets/files/cvpr18/CVPR18_SharedAttention.pdf
+      link: assets/paper/cvpr18/CVPR18_SharedAttention.pdf
     - tag: Code
       link: https://github.com/LifengFan/Shared-Attention
   image: cvpr18/cvpr18_teaser.png
@@ -379,7 +379,7 @@
   journal: Topics in Cognitive Science, 2018.
   tags:
     - tag: Paper
-      link: assets/files/cogsci17/topics.pdf
+      link: assets/paper/cogsci17/topics.pdf
   image: cogsci17/topics_teaser.jpg
 
 
@@ -399,7 +399,7 @@
   conference: The 39th Annual Meeting of the Cognitive Science Society (CogSci), 2017.
   tags:
     - tag: Paper
-      link: assets/files/cogsci17/cogsci.pdf
+      link: assets/paper/cogsci17/cogsci.pdf
     - tag: Project
       link: https://www.tshu.io/HeiderSimmel/CogSci17/
     - tag: <font color="red"><strong>Computational Modeling Prize</strong></font>
