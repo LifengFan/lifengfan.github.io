@@ -1,6 +1,9 @@
 <article class="media">
-	<div class="media-content">
-		<div class="content">
+	<div class="row no-gutters">
+
+		<!-- 文本列 -->
+        	<div class="col-sm-8">
+<!-- 		<div class="content"> -->
 		<p>
 		<strong>{{ item.title }}</strong>,
 		{% if item.journal != false %}
@@ -25,5 +28,11 @@
 		{% endif %}
 		</p>
 		</div>
+
+		<!-- 图片列 -->
+        	<div class="col-sm-4 mx-auto my-auto">
+            		<img src="{{ item.image }}" class="card-img" style="max-width: 100%;">
+       	 	</div>
+		
 	</div>
 </article>
