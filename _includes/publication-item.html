@@ -1,24 +1,22 @@
-<!-- <article class="media">
+<article class="media">
 	<div class="row no-gutters">
 
-		<!-- 图片列 -->
-        	<div class="col-sm-4 mx-auto my-auto">
-            		<img src="{{ item.image }}" class="card-img" style="max-width: 100%;">
-       	 	</div>
 		
 		<!-- 文本列 -->
-        	<div class="col-sm-8">
-<!-- 		<div class="content"> -->
+		<div class="content">
 		<p>
-		<strong>{{ item.title }}</strong>,
+<!-- 		<strong>{{ item.title }}</strong>, -->
+		<span class="na">title</span> <span class="p">=</span> <span class="s">{item.title}</span><span class="p">,</span>
+
 		{% if item.journal != false %}
-			<i>{{ item.journal }}</i>,
+<!-- 			<i>{{ item.journal }}</i>, -->
+			<span class="na">journal</span> <span class="p">=</span> <span class="s">{item.journal}</span><span class="p">,</span>
 		{% endif %} 
 		{{ item.year }}.
 		<br>
 		{% for author in item.authors %}
-			{% if author.orcid %}
-				<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="https://orcid.org/{{ author.orcid }}" target="_blank">{{ author.name }} <sup><i class="fab fa-orcid"></i></sup></a>
+			{% if author.website %}
+				<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="{{ author.website }}" target="_blank">{{ author.name }} </a>
 				
 			{% else %}
 				<span class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}">{{ author.name }}</span>
@@ -31,35 +29,44 @@
 				<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank"{% endif %}>{{ tag.tag }}</a>
 			{% endfor %}
 		{% endif %}
+
+		 <span class="p">}</span></code></pre></figure> </div> </div> </div> </div> </div> </div> </li> <li> <div> <div class="row no-gutters"> <div class="col-sm-4 mx-auto my-auto"> <img src={{item.image}} class="card-img" style="max-width: 100%;"> </div> 
+			 <div class="col-sm-8"> <div class="card-body"> 
+				 <div id="Caluwaerts23arXiv_barkour"> 
+					 <div class="title"> 
+						 <a href="https://arxiv.org/abs/2305.14654" target="_blank" rel="noopener noreferrer">Barkour: Benchmarking Animal-level Agility with Quadruped Robots</a> 
+					 </div>
+					 <div class="author"> 
+						 <a href="https://www.linkedin.com/in/kencaluwaerts" target="_blank" rel="noopener noreferrer">Ken Caluwaerts</a>*, 
+						 <a href="https://www.linkedin.com/in/atil-iscen-32737945" target="_blank" rel="noopener noreferrer">Atil Iscen</a>*, 
+						 <a href="https://scholar.google.com/citations?user=nj49RCAAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">J. Chase Kew</a>*, 
+						 <a href="https://research.google/people/107213/" target="_blank" rel="noopener noreferrer">Wenhao Yu</a>*, 
+						 <a href="https://research.google/people/TingnanZhang/" target="_blank" rel="noopener noreferrer">Tingnan Zhang</a>*, 
+						 <a href="https://scholar.google.com/citations?hl=en&amp;user=t5Xsx0IAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Daniel Freeman</a>, Kuang-Huei Lee, Lisa Lee, Stefano Saliceti, Vincent Zhuang, Nathan Batchelor, 
+						 <a href="https://scholar.google.com/citations?user=J7p1Fx4AAAAJ" target="_blank" rel="noopener noreferrer">Steven Bohez</a>, Federico Casarini, Jose Enrique Chen, Omar Cortes,
+						 <a href="https://www.linkedin.com/in/erwincoumans" target="_blank" rel="noopener noreferrer">Erwin Coumans</a>, Adil Dostmohamed, Gabriel Dulac-Arnold,  <em>Alejandro Escontrela</em>, 
+						 <span>…</span> </div> <div class="periodical"> <em>CoRR</em> 2023 </div> 
+					 <div class="links"> 
+						 <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a> 
+						 <a href="https://arxiv.org/pdf/2305.14654.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a> 
+						 <a href="https://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Website</a> </div> 
+					 
+					 <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Caluwaerts23arXiv_barkour</span><span class="p">,</span>
+	
 		</p>
 		</div>
+
+		
+
+
+<!--   <span class="na">author</span> <span class="p">=</span> <span class="s">{Escontrela, Alejandro and Adeniji, Ademi and Yan, Wilson and Jain, Ajay and Peng, Xue Bin and Goldberg, Ken and Lee, Youngwoon and Hafner, Danijar and Abbeel, Pieter}</span><span class="p">,</span> -->
+<!--   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{Artificial Intelligence (cs.AI)}</span><span class="p">,</span> -->
+<!--   <span class="na">publisher</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span> -->
+<!--   <span class="na">copyright</span> <span class="p">=</span> <span class="s">{Creative Commons Attribution 4.0 International}</span><span class="p">,</span> -->
+<!--   <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span> -->
+<!--   <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2305.14343}</span><span class="p">,</span> -->
+<!--   <span class="na">archiveprefix</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span> -->
+<!--   <span class="na">primaryclass</span> <span class="p">=</span> <span class="s">{cs.LG}</span><span class="p">,</span> -->
 		
 	</div>
-</article> -->
-
-<!-- {% for item in site.data.papers %} <!-- 假设您的 papers 数据存储在 site.data.papers 中 --> -->
-<article class="media">
-    <div class="row no-gutters">
-        <!-- 图片列 -->
-        <div class="col-sm-4 mx-auto my-auto">
-            <img src="{{ item.image }}" class="card-img" style="max-width: 100%;">
-        </div>
-        <!-- 文本列 -->
-        <div class="col-sm-8">
-            <div class="card-body">
-                <div class="title">
-                    <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
-                </div>
-                <div class="author">
-                    {% for author in item.authors %}
-                    <span>{{ author.name }}</span>{% unless forloop.last %}, {% endunless %}
-                    {% endfor %}
-                </div>
-                <div class="periodical">{{ item.journal }}, {{ item.year }}</div>
-                <!-- 其他信息，如链接等 -->
-            </div>
-        </div>
-    </div>
 </article>
-{% endfor %}
-
