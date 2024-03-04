@@ -330,7 +330,7 @@
       link: assets/files/cvpr18/CVPR18_SharedAttention.pdf
     - tag: Code
       link: https://github.com/LifengFan/Shared-Attention
-  image: cvpr18_teaser.png
+  image: cvpr18/cvpr18_teaser.png
 
 
 - title: "Perception of Human Interaction Based on Motion Trajectories: from Aerial Videos to Decontextualized Animations"
@@ -350,7 +350,7 @@
     - tag: Topics in Cognitive Science
     - tag: Paper
       link: assets/files/cogsci17/topics.pdf
-  image: topics_teaser.jpg
+  image: cogsci17/topics_teaser.jpg
 
 
 - title: "Inferring Human Interaction from Motion Trajectories in Aerial Videos"
