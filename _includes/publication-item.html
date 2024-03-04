@@ -20,7 +20,7 @@
 					<br>
 					{% for author in item.authors %}
 					{% if author.website %}
-					<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="{{ author.website }}" target="_blank">{{ author.name }} <sup><i class="fab fa-orcid"></i></sup></a>
+					<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="{{ author.website }}" target="_blank">{{ author.name }} </a>
 
 					{% else %}
 					<span class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}">{{ author.name }}</span>
