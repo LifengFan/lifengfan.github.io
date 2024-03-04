@@ -7,18 +7,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sascha Kirch
-email: skirch1@alumno.uned.es
-description: Sascha Kirch is a PhD Student in machine learning at UNED
-domain: sascha-kirch.github.io
+title: Lifeng Fan
+email: lfan@ucla.edu
+description: Lifeng Fan is a AI researcher at BIGAI
+domain: lifengfan.github.io
 baseurl: "" 
-url: https://sascha-kirch.github.io
-twitter_username: sascha_kirch
-github_username: sascha-kirch
+url: https://lifengfan.github.io
+# twitter_username: sascha_kirch
+github_username: LifengFan
 mode: bright #bright or dark (in development)
 
 # Google Analytics
-google_analytics: G-KWH5E0QLCH
+# google_analytics: G-KWH5E0QLCH
 
 # Build settings
 theme: minima
