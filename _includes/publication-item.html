@@ -2,7 +2,8 @@
 	<div class="columns is-vcentered">
 
 		<div class="column {{page.text_width}}">
-<!--			<div class="content">-->
+
+			<div class="content">
 				<p>
 					<strong>{{ item.title }}</strong>
 					{% if item.journal != false %}
@@ -26,14 +27,16 @@
 					{% endfor %}
 					{% endif %}
 				</p>
-<!--			</div>-->
+			</div>
+
 		</div>
 
-
 		<div class="column {{page.image_width}}">
+
 			<figure class="image">
 				<img src= "{{site.baseurl}}/assets/files/{{ item.image }}">
 			</figure>
+
 		</div>
 
 	</div>
