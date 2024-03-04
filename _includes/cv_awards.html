@@ -1,0 +1,22 @@
+<div class="columns is-multiline">
+	{% for item in site.data.cv.awards %}
+	<div class="column is-half">
+		<div class="box">
+			<div class="columns is-vcentered is-mobile">
+				<div class="column is-narrow">
+					<figure class="image is-48x48 mx-0">
+						<img src="{{site.baseurl}}/assets/images/icon_award.png"/>
+					</figure>
+					
+				</div>
+				<div class="column">
+					<div><b>{{item.award}}</b></div>
+					<div>{{item.initiater}}</div>
+					<div><small>{{item.date}}</small></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+

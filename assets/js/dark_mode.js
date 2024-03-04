@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",function(){const e=document.getElementsByClassName("light-toggle");for(mode_toggle of e)mode_toggle.addEventListener("click",function(){toggleTheme(localStorage.getItem("theme"))})});

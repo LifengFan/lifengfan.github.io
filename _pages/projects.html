@@ -1,0 +1,15 @@
+---
+layout: page
+title: Projects
+permalink: /projects
+nav_id: nav_projects
+image_width: is-one-third
+text_width: is-two-thirds
+view_mode: excerpt
+---
+
+{% assign items = site.projects | sort: 'order' %}
+{% for item in items %}
+{% assign side = forloop.index0 | modulo: 2 %}
+{% include left_right.html %}
+{% endfor %}
