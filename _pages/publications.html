@@ -7,5 +7,6 @@ nav_id: nav_publication
 
 {% assign publications = site.data.publications | sort: 'year' | reverse %}
 {% for item in site.data.publications %}
-  {% include publication-item.html %}
+<!--   {% include publication-item.html %} -->
+  {% include publication_item_n.html %}
 {% endfor %}
