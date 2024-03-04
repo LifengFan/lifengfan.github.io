@@ -26,11 +26,13 @@
 					<br>
 
 					{% if item.conference != false %}
-					<i style="font-family: 'Times New Roman', serif; font-size: 14px; color: #333;">{{ item.conference }}</i>
+<!--					<i style="font-family: 'Times New Roman', serif; font-size: 14px; color: #333;">{{ item.conference }}</i>-->
+					<span class="has-text-grey"><small>{{ item.conference }}</small></span>
 					{% endif %}
 
 					{% if item.journal != false %}
-					<i style="font-family: 'Times New Roman', serif; font-size: 14px; color: #333;">{{ item.journal }}</i>
+<!--					<i style="font-family: 'Times New Roman', serif; font-size: 14px; color: #333;">{{ item.journal }}</i>-->
+					<span class="has-text-grey"><small>{{ item.journal }}</small></span>
 					{% endif %}
 
 					{% if item.tags %}
