@@ -48,11 +48,11 @@
 #     type: fab
 
 - name: Resume
-  link: {{site.baseurl}}/assets/images/profile.png
+  src: {{site.baseurl}}/assets/images/profile.png
   icon:
     source: fa
-    name: fa-file
-    type: far
+    name: fa-file-alt
+    type: fas
     
 - name: Email
   link: mailto:lfan@ucla.edu
