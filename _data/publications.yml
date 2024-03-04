@@ -11,7 +11,6 @@
   year: 2024
   tags:
     - tag: Under Review
-
   image: snowwhite.png
 
 
@@ -31,6 +30,7 @@
   tags:
     - tag: Under Review
     - tag: Paper (Coming soon)
+  image: ft_iip.png
 
 
 
@@ -43,12 +43,12 @@
     - name: Wei Wang<sup>&#x2709;</sup>
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
-
   year: 2023
   tags:
     - tag: Under Review
     - tag: arXiv
       link: https://browse.arxiv.org/pdf/2310.03325.pdf
+  image: symbol_reasoning.png
 
 
 - title: "Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households"
@@ -60,11 +60,11 @@
       website: https://liuanji.github.io
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
-
   year: 2024
   tags:
     - tag: CVPR
     - tag: Paper (Coming soon)
+  image: help_intro.png
 
 
 
@@ -77,7 +77,6 @@
     - name: Wenjuan Han
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
-
   year: 2023
   tags:
     - tag: ICCV
@@ -85,7 +84,7 @@
       link: assets/files/iccv23/03185.pdf
     - tag: Supp
       link: assets/files/iccv23/03185-supp.pdf
-
+  image: iccv23_teaser.png
 
 - title: "The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions"
   authors:
@@ -100,12 +99,12 @@
     - name: Yuxi Ma
     - name: Yizhou Wang
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
-
   year: 2023
   tags:
     - tag: Engineer
     - tag: Paper
       link: https://www.sciencedirect.com/science/article/pii/S209580992300293X
+  image: engineering_tongtest.png
 
 
 
@@ -119,7 +118,6 @@
       website: https://yzhu.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
       website: http://www.stat.ucla.edu/~sczhu/
-
   year: 2022
   tags:
     - tag: CAAI Artificial Intelligence Research
@@ -139,6 +137,7 @@
       link: https://mp.weixin.qq.com/s/czqIBh1HHsFg6609VtBXoQ
     - tag: 北大AI院官微
       link: https://mp.weixin.qq.com/s/VgA_dJ8rR__vziR4XJhvUg
+  image: asi.png
 
   
 - title: "Emergent Graphical Conventions in a Visual Communication Game"
@@ -164,18 +163,20 @@
       link: https://arxiv.org/abs/2111.14210
     - tag: Web
       link: https://sites.google.com/view/emergent-graphical-conventions
+  image: pictionary.gif
 
 
 - title: "A Hierarchical Computational Framework for Social Interaction Understanding: Interactiveness, Shared Attention, Gaze Communication and Triadic Belief Dynamics"
-
   year: 2021
   tags:
     - tag: Ph.D. Dissertation
     - tag: Paper
       link: https://escholarship.org/content/qt7mn110r0/qt7mn110r0.pdf
 
-- title: "GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning"
+  image: ucla_logo.png
 
+
+- title: "GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning"
   authors:
     - name: Zilong Zheng
     - name: Shuwen Qiu
@@ -185,15 +186,14 @@
       link: https://yzhu.io/
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
       link: http://www.stat.ucla.edu/~sczhu/
-
   year: 2021
-
   tags:
     - tag: ACL-Findings
     - tag: Paper
       link: https://aclanthology.org/2021.findings-acl.182.pdf
     - tag: Project
       link: https://zilongzheng.github.io/Grice/
+  image: acl-f/arc.png
 
 - title: "Learning Triadic Belief Dynamics in Nonverbal Communication from Videos"
   authors:
@@ -209,7 +209,6 @@
       link: http://www.stat.ucla.edu/~sczhu/
     - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
-
   year: 2021
   tags:
     - tag: CVPR
@@ -228,6 +227,7 @@
       link: https://www.mittrchina.com/news/detail/9677
     - tag: DeepTech
       link: https://www.sohu.com/a/473511303_354973
+  image: cvpr21/motivation.png
 
 
 - title: "Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Human-like Commonsense"
@@ -256,13 +256,14 @@
       link: https://web.mit.edu/cocosci/josh.html
     - name: Song-Chun Zhu
       link: http://www.stat.ucla.edu/~sczhu/
-
   year: 2020
   tags:
     - tag: Engineering
     - tag: Special Issue on Artificial Intelligence
     - tag: Paper
       link: assets/files/dark/dark.pdf
+  image: dark/motivation.png
+
 
 - title: "Understanding False-Belief by Joint Inference of Object States, Robot Knowledge, and Human (False-)Beliefs"
   authors:
@@ -286,6 +287,7 @@
       link: assets/files/icra20/icra.pdf
     - tag: Demo
       link: https://vimeo.com/391734593
+  image: icra20/teaser.png
 
 
 - title: "Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning"
@@ -299,7 +301,6 @@
     - name: Xinyu Tang
     - name: Song-Chun Zhu<sup>&#x2709;</sup>
       link: http://www.stat.ucla.edu/~sczhu/
-
   year: 2019
   tags:
     - tag: ICCV
@@ -307,6 +308,7 @@
       link: assets/files/iccv19/ICCV19_Gaze_Communication.pdf
     - tag: Code
       link: https://github.com/LifengFan/Human-Gaze-Communication
+  image: iccv19/iccv19_teaser.jpg
 
 
 - title: "Inferring Shared Attention in Social Scene Videos"
@@ -321,7 +323,6 @@
       link: https://sites.google.com/view/wenguanwang/
     - name: Song-Chun Zhu
       link: http://www.stat.ucla.edu/~sczhu/
-
   year: 2018
   tags:
     - tag: CVPR
@@ -329,6 +330,7 @@
       link: assets/files/cvpr18/CVPR18_SharedAttention.pdf
     - tag: Code
       link: https://github.com/LifengFan/Shared-Attention
+  image: cvpr18_teaser.png
 
 
 - title: "Perception of Human Interaction Based on Motion Trajectories: from Aerial Videos to Decontextualized Animations"
@@ -348,6 +350,7 @@
     - tag: Topics in Cognitive Science
     - tag: Paper
       link: assets/files/cogsci17/topics.pdf
+  image: topics_teaser.jpg
 
 
 - title: "Inferring Human Interaction from Motion Trajectories in Aerial Videos"
@@ -370,4 +373,5 @@
       link: assets/files/cogsci17/cogsci.pdf
     - tag: Project
       link: https://www.tshu.io/HeiderSimmel/CogSci17/
+  image: cogsci17/cogsci17_teaser.png
 
