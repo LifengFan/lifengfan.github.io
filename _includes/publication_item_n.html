@@ -1,36 +1,17 @@
-<article class="media">
-	<div class="row no-gutters">
 
-		
-		<!-- 文本列 -->
-		<div class="content">
-		<p>
-<!-- 		<strong>{{ item.title }}</strong>, -->
-		<span class="na">title</span> <span class="p">=</span> <span class="s">{item.title}</span><span class="p">,</span>
+<div class="content">
+	<div class="columns is-vcentered">
 
-		{% if item.journal != false %}
-<!-- 			<i>{{ item.journal }}</i>, -->
-			<span class="na">journal</span> <span class="p">=</span> <span class="s">{item.journal}</span><span class="p">,</span>
-		{% endif %} 
-		{{ item.year }}.
-		<br>
-		{% for author in item.authors %}
-			{% if author.website %}
-				<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="{{ author.website }}" target="_blank">{{ author.name }} </a>
-				
-			{% else %}
-				<span class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}">{{ author.name }}</span>
-			{% endif %}
-		{% endfor %}
-		
-		{% if item.tags %}
-			<br>
-			{% for tag in item.tags %}
-				<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank"{% endif %}>{{ tag.tag }}</a>
-			{% endfor %}
-		{% endif %}
-
-		 <span class="p">}</span></code></pre></figure> </div> </div> </div> </div> </div> </div> </li> <li> <div> <div class="row no-gutters"> <div class="col-sm-4 mx-auto my-auto"> <img src={{item.image}} class="card-img" style="max-width: 100%;"> </div> 
+	<!--image left-->
+		<!--Hack to change order of image when column is wrapped on mobile devices!-->
+		<div class="column {{page.image_width}} is-hidden-mobile">
+			<figure class="image">
+				<img src="{{site.baseurl}}/assets/files/{{ item.image }}">
+			</figure>
+		</div>
+		<div class="column {{page.text_width}} ">
+			
+			 <span class="p">}</span></code></pre></figure> </div> </div> </div> </div> </div> </div> </li> <li> <div> <div class="row no-gutters"> <div class="col-sm-4 mx-auto my-auto"> <img src={{item.image}} class="card-img" style="max-width: 100%;"> </div> 
 			 <div class="col-sm-8"> <div class="card-body"> 
 				 <div id="Caluwaerts23arXiv_barkour"> 
 					 <div class="title"> 
@@ -52,48 +33,7 @@
 						 <a href="https://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Website</a> </div> 
 					 
 					 <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Caluwaerts23arXiv_barkour</span><span class="p">,</span>
-	
-		</p>
-		</div>
 
-		
-
-
-<!--   <span class="na">author</span> <span class="p">=</span> <span class="s">{Escontrela, Alejandro and Adeniji, Ademi and Yan, Wilson and Jain, Ajay and Peng, Xue Bin and Goldberg, Ken and Lee, Youngwoon and Hafner, Danijar and Abbeel, Pieter}</span><span class="p">,</span> -->
-<!--   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{Artificial Intelligence (cs.AI)}</span><span class="p">,</span> -->
-<!--   <span class="na">publisher</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span> -->
-<!--   <span class="na">copyright</span> <span class="p">=</span> <span class="s">{Creative Commons Attribution 4.0 International}</span><span class="p">,</span> -->
-<!--   <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span> -->
-<!--   <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2305.14343}</span><span class="p">,</span> -->
-<!--   <span class="na">archiveprefix</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span> -->
-<!--   <span class="na">primaryclass</span> <span class="p">=</span> <span class="s">{cs.LG}</span><span class="p">,</span> -->
-		
-	</div>
-</article>
-
-
-
-
-<div class="content">
-	<div class="columns is-vcentered">
-
-	<!--image left-->
-		<!--Hack to change order of image when column is wrapped on mobile devices!-->
-		<div class="column {{page.image_width}} is-hidden-mobile">
-			<figure class="image">
-				<img src="{{site.baseurl}}/assets/files/{{ item.image }}">
-			</figure>
-		</div>
-		<div class="column {{page.text_width}} ">
-			
-<!-- 			<h3>{{ item.title }}</h3>
-			{% if page.view_mode == "excerpt" %}
-			{{ item.excerpt }}
-			<a href="{{ item.url }}"><em>Read more</em></a>
-			{% else %}
-			{{ item.content }}
-			{% endif %}
- -->
 			
 		</div>
 		<div class="column {{page.image_width}} is-hidden-tablet"><!--is-hidden-tablet hides for all screens bigger than tablet -> only if not mobile -->
@@ -101,8 +41,6 @@
 				<img src="{{site.baseurl}}/assets/files/{{ item.image }}">
 			</figure>
 		</div>
-				
-
 	
 	</div>
 </div>
