@@ -48,7 +48,7 @@
 #     type: fab
 
 - name: Resume
-  link: /assets/files/resume_lifengfan.pdf
+  link: /assets/paper/resume_lifengfan.pdf
   icon:
     soure: fa
     name: fa-file-alt
