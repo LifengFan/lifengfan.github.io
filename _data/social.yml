@@ -48,9 +48,9 @@
 #     type: fab
 
 - name: Resume
-  src: {{site.baseurl}}/_files/resume_lifengfan.pdf
+  link: {{site.baseurl}}/_files/resume_lifengfan.pdf
   icon:
-    source: fa
+    soure: fa
     name: fa-file-alt
     type: fas
     
