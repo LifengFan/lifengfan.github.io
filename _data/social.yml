@@ -48,7 +48,7 @@
 #     type: fab
 
 - name: Resume
-  src: {{site.baseurl}}/assets/images/profile.png
+  src: {{site.baseurl}}/_files/resume_lifengfan.pdf
   icon:
     source: fa
     name: fa-file-alt
