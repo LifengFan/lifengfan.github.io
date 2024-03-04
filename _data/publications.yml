@@ -173,7 +173,7 @@
     - tag: Paper
       link: https://escholarship.org/content/qt7mn110r0/qt7mn110r0.pdf
 
-  image: ucla_logo.png
+  image: thesis/ucla_logo.png
 
 
 - title: "GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning"
