@@ -6,7 +6,7 @@
     - name: Haochen Zhao
     - name: Yisen Wang
     - name: Xue Feng
-    - name: <strong>Lifeng Fan†</strong>
+    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io
   year: 2024
   tags:
@@ -23,9 +23,9 @@
     - name: Yuxi Ma
     - name: Lixing Niu
     - name: Jiaheng Han
-    - name: Yujia Peng†
-    - name: Yixin Zhu†
-    - name: <strong>Lifeng Fan</strong>†
+    - name: Yujia Peng<sup>&#x2709;</sup>
+    - name: Yixin Zhu<sup>&#x2709;</sup>
+    - name: <strong>Lifeng Fan</strong><sup>&#x2709;</sup>
       website: https://lifengfan.github.io/
   year: 2024
   tags:
@@ -40,8 +40,8 @@
     - name: Peiyu Yu
     - name: Yingnian Wu
     - name: Yao Su
-    - name: Wei Wang†
-    - name: <strong>Lifeng Fan</strong>†
+    - name: Wei Wang<sup>&#x2709;</sup>
+    - name: <strong>Lifeng Fan</strong><sup>&#x2709;</sup>
       website: https://lifengfan.github.io/
 
   year: 2023
@@ -58,7 +58,7 @@
     - name: Siwen Xie
     - name: Anji Liu
       website: https://liuanji.github.io
-    - name: <strong>Lifeng Fan</strong>†
+    - name: <strong>Lifeng Fan</strong><sup>&#x2709;</sup>
       website: https://lifengfan.github.io/
 
   year: 2024
@@ -75,7 +75,7 @@
     - name: Ping Wei
       website: https://gr.xjtu.edu.cn/web/pingwei
     - name: Wenjuan Han
-    - name: <strong>Lifeng Fan</strong>†
+    - name: <strong>Lifeng Fan</strong><sup>&#x2709;</sup>
       website: https://lifengfan.github.io/
 
   year: 2023
@@ -99,7 +99,7 @@
     - name: Xue Feng
     - name: Yuxi Ma
     - name: Yizhou Wang
-    - name: Song-Chun Zhu†
+    - name: Song-Chun Zhu<sup>&#x2709;</sup>
 
   year: 2023
   tags:
@@ -115,9 +115,9 @@
       website: https://lifengfan.github.io/
     - name: Manjie Xu
     - name: Zhihao Cao
-    - name: Yixin Zhu†
+    - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
-    - name: Song-Chun Zhu†
+    - name: Song-Chun Zhu<sup>&#x2709;</sup>
       website: http://www.stat.ucla.edu/~sczhu/
 
   year: 2022
@@ -155,7 +155,7 @@
       website: https://www.jsjoo.com/
     - name: Song-Chun Zhu
       website: http://www.stat.ucla.edu/~sczhu/
-    - name: Yixin Zhu†
+    - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
   year: 2022
   tags:
@@ -183,7 +183,7 @@
       link: lifengfan.github.io
     - name: Yixin Zhu
       link: https://yzhu.io/
-    - name: Song-Chun Zhu†
+    - name: Song-Chun Zhu<sup>&#x2709;</sup>
       link: http://www.stat.ucla.edu/~sczhu/
 
   year: 2021
@@ -207,7 +207,7 @@
       link: http://www.stat.ucla.edu/~taogao/
     - name: Song-Chun Zhu
       link: http://www.stat.ucla.edu/~sczhu/
-    - name: Yixin Zhu†
+    - name: Yixin Zhu<sup>&#x2709;</sup>
       website: https://yzhu.io/
 
   year: 2021
@@ -232,7 +232,7 @@
 
 - title: "Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Human-like Commonsense"
   authors:
-    - name: Yixin Zhu†
+    - name: Yixin Zhu<sup>&#x2709;</sup>
       link: https://yzhu.io/
     - name: Tao Gao
       link: http://www.stat.ucla.edu/~taogao/
@@ -277,7 +277,7 @@
       link: http://www.stat.ucla.edu/~taogao/
     - name: Yixin Zhu
       link: https://yzhu.io/
-    - name: Song-Chun Zhu†
+    - name: Song-Chun Zhu<sup>&#x2709;</sup>
       link: http://www.stat.ucla.edu/~sczhu/
   year: 2020
   tags:
@@ -297,7 +297,7 @@
     - name: Siyuan Huang
       link: https://siyuanhuang.com/
     - name: Xinyu Tang
-    - name: Song-Chun Zhu†
+    - name: Song-Chun Zhu<sup>&#x2709;</sup>
       link: http://www.stat.ucla.edu/~sczhu/
 
   year: 2019
@@ -315,7 +315,7 @@
       link: lifeng.github.io
     - name: Yixin Chen*
       link: https://yixchen.github.io/
-    - name: Ping Wei†
+    - name: Ping Wei<sup>&#x2709;</sup>
       website: https://gr.xjtu.edu.cn/web/pingwei
     - name: Wenguan Wang
       link: https://sites.google.com/view/wenguanwang/
@@ -333,7 +333,7 @@
 
 - title: "Perception of Human Interaction Based on Motion Trajectories: from Aerial Videos to Decontextualized Animations"
   authors:
-    - name: Tianmin Shu*†
+    - name: Tianmin Shu*<sup>&#x2709;</sup>
       link: https://www.tshu.io/
     - name: Yujia Peng*
       link: https://yujiapeng.com/
@@ -360,7 +360,7 @@
       link: lifeng.github.io
     - name: Hongjing Lu
       link: http://cvl.psych.ucla.edu/
-    - name: Song-Chun Zhu†
+    - name: Song-Chun Zhu<sup>&#x2709;</sup>
       link: http://www.stat.ucla.edu/~sczhu/
   year: 2017
   tags:
