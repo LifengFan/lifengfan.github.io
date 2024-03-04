@@ -30,9 +30,5 @@ The challenge of training CycleGANs lies primarily in the high amount of hyperpa
 Furthermore, the learning objective is qualitatively more complex for the generator than for the discriminator. In addition, especially for convolutional networks 
 that translate high resolution multi-channel images, models become complex and require many resources to train.
 
-<div class="column is-half is-offset-one-quarter">
-<figure class="image">
-<img src="{{site.baseurl}}/assets/images/{{page.image}}" >
-</figure>
-</div>
+<
 
