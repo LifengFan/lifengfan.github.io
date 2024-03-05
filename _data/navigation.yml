@@ -1,0 +1,22 @@
+- name: Publications
+  link: /publications.html
+  id: nav_publication
+# - name: Projects
+#   link: /projects.html
+#   id: nav_projects
+# - name: CV
+#   link: /cv.html
+#   id: nav_cv
+- name: Blog
+  link: "https://lifengfan.github.io/fanrenxiaosa/"
+  id: nav_blog
+# - name: Programming
+#   link: /programming.html
+#   id: nav_programming
+# - name: Events
+#   link: /events.html
+#   id: nav_events
+- name: Fun Stuff
+  link: "https://lifengfan.github.io/"
+  id: nav_fun
+
