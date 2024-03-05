@@ -8,7 +8,7 @@
 #   link: /cv.html
 #   id: nav_cv
 - name: Blog
-  link: /blog.html
+  link: "https://lifengfan.github.io/fanrenxiaosa/"
   id: nav_blog
 # - name: Programming
 #   link: /programming.html
@@ -17,6 +17,6 @@
 #   link: /events.html
 #   id: nav_events
 - name: Fun Stuff
-  link: /fun.html
+  link: "https://lifengfan.github.io/"
   id: nav_fun
 
