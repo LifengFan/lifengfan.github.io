@@ -21,13 +21,17 @@
   	  </div>
     </div>
     <div id="navbar-main" class="navbar-menu">
+
       <div class="navbar-start">
-        {% for item in site.data.navigation %}
-          <a class="navbar-item" id="{{item.id}}" href="{{site.baseurl|append: item.link }}" >
-            {{ item.name }}
-          </a>
-        {% endfor %}
+		  {% for item in site.data.navigation %}
+		  {% if item.name == "Blog" or item.name == "Fun" %}
+		  <a class="navbar-item" id="{{ item.id }}" href="{{ item.link }}">{{ item.name }}</a>
+		  {% else %}
+		  <a class="navbar-item" id="{{ item.id }}" href="{{ site.baseurl | append: item.link }}">{{ item.name }}</a>
+		  {% endif %}
+		  {% endfor %}
       </div>
+
       <div class="navbar-end">
     		<div class="navbar-item">
     		  {% for item in site.data.social %}
