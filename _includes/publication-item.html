@@ -1,0 +1,66 @@
+<div class="content">
+	<hr>
+	<div class="columns is-vcentered">
+
+		<div class="column {{page.image_width}} is-hidden-mobile">
+			<figure class="image">
+				<img src="{{site.baseurl}}/assets/paper/{{ item.image }}" class="card-img" style="max-width: 100%;">
+			</figure>
+		</div>
+
+		<div class="column {{page.text_width}} ">
+
+			<div class="content">
+				<p>
+					<strong>{{ item.title }}</strong>
+					<br>
+					{% for author in item.authors %}
+					{% if author.website %}
+					<a class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}" href="{{ author.website }}" target="_blank">{{ author.name }} </a>
+					{% else %}
+					<span class="tag is-small is-success {% if author.name != site.title %}is-light{% endif %}">{{ author.name }}</span>
+					{% endif %}
+					{% endfor %}
+
+					<br>
+
+					{% if item.conference != false %}
+<!--					<i style="font-family: 'Times New Roman', serif; font-size: 14px; color: #333;">{{ item.conference }}</i>-->
+					<span class="has-text-black" style="font-family: 'Monda', sans-serif;"><small><i>{{ item.conference }}</i></small></span>
+					{% endif %}
+
+					{% if item.journal != false %}
+<!--					<i style="font-family: 'Times New Roman', serif; font-size: 14px; color: #333;">{{ item.journal }}</i>-->
+					<span class="has-text-black" style="font-family: 'Monda', sans-serif;"><small><i>{{ item.journal }}</i></small></span>
+					{% endif %}
+
+					{% if item.tags %}
+					<br>
+					{% for tag in item.tags %}
+					<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank"{% endif %}>{{ tag.tag }}</a>
+					{% endfor %}
+					{% endif %}
+
+					{% if item.media %}
+					<br>
+					{% for tag in item.media %}
+<!--					<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank"{% endif %}>{{ tag.tag }}</a>-->
+					<a class="tag is-small is-info is-light" {% if tag.link %}href="{{ tag.link }}" target="_blank" style="color: orange;"{% endif %}>{{ tag.tag }}</a>
+					{% endfor %}
+					{% endif %}
+
+				</p>
+			</div>
+
+		</div>
+
+		<div class="column {{page.image_width}} is-hidden-tablet"><!--is-hidden-tablet hides for all screens bigger than tablet -> only if not mobile -->
+			<figure class="image">
+				<img src="{{site.baseurl}}/assets/paper/{{ item.image }}" class="card-img" style="max-width: 100%;" >
+			</figure>
+		</div>
+
+	</div>
+</div>
+
+
