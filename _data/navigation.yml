@@ -17,6 +17,6 @@
 #   link: /events.html
 #   id: nav_events
 - name: Fun Stuff
-  link: "https://lifengfan.github.io/"
+  link: /fun.html
   id: nav_fun
 
