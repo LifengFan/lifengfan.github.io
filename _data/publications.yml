@@ -16,6 +16,28 @@
   image: snowwhite.png
 
 
+- title: "Learning Concept-Based Causal Transitions for Visual Planning"
+  authors:
+    - name: Yilue Qian
+      website: https://tongclass.ac.cn/author/yilue-qian/
+    - name: Peiyu Yu
+      website: https://scholar.google.com/citations?user=heHn9fEAAAAJ&hl=en
+    - name: Yingnian Wu
+      website: http://www.stat.ucla.edu/~ywu/
+    - name: Yao Su
+      website: https://yaosu.info
+    - name: Wei Wang<sup>&#x2709;</sup>
+      website: https://cognn.com
+    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+      website: https://lifengfan.github.io/
+  year: 2023
+  conference: arXiv, 2023. Under Review.
+  tags:
+    - tag: Paper
+      link: https://browse.arxiv.org/pdf/2310.03325.pdf
+  image: symbol_reasoning.png
+
+
 - title: "Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities"
   authors:
     - name: Junqi Wang*
@@ -38,29 +60,7 @@
   tags:
     - tag: Paper (Coming soon)
   image: ft_iip.png
-
-
-- title: "Learning Concept-Based Causal Transitions for Visual Planning"
-  authors:
-    - name: Yilue Qian
-      website: https://tongclass.ac.cn/author/yilue-qian/
-    - name: Peiyu Yu
-      website: https://scholar.google.com/citations?user=heHn9fEAAAAJ&hl=en
-    - name: Yingnian Wu
-      website: http://www.stat.ucla.edu/~ywu/
-    - name: Yao Su
-      website: https://yaosu.info
-    - name: Wei Wang<sup>&#x2709;</sup>
-      website: https://cognn.com
-    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
-      website: https://lifengfan.github.io/
-  year: 2023
-  conference: arXiv, 2023. Under Review.
-  tags:
-    - tag: Paper
-      link: https://browse.arxiv.org/pdf/2310.03325.pdf
-  image: symbol_reasoning.png
-
+  
 
 - title: "Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households"
   authors:
