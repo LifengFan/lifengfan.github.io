@@ -75,7 +75,8 @@
   year: 2024
   conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
   tags:
-    - tag: Paper (Coming soon)
+    - tag: Paper
+      link: https://arxiv.org/abs/2404.09001
   image: help_intro.png
 
 
