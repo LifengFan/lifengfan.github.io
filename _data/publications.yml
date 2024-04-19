@@ -77,6 +77,10 @@
   tags:
     - tag: Paper
       link: https://arxiv.org/abs/2404.09001
+    - tag: Code
+      link: https://github.com/bigai-ai/smart-help
+    - tag: Data
+      link: 
   image: help_intro.png
 
 
