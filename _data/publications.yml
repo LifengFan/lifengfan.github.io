@@ -98,6 +98,8 @@
       link: assets/paper/iccv23/03185.pdf
     - tag: Supp
       link: assets/paper/iccv23/03185-supp.pdf
+    - tag: Web
+      link: https://github.com/JoseponLee/IntentQA
     - tag: <font color="red"><strong>Oral</strong></font>
   image: iccv23_teaser.png
 
@@ -401,7 +403,7 @@
   tags:
     - tag: Paper
       link: assets/paper/cogsci17/cogsci.pdf
-    - tag: Project
+    - tag: Web
       link: https://www.tshu.io/HeiderSimmel/CogSci17/
     - tag: <font color="red"><strong>Computational Modeling Prize</strong></font>
   image: cogsci17/cogsci17_teaser.png
