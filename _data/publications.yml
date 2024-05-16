@@ -1,19 +1,19 @@
-- title: "Queen or Dwarf? Theory of Mind Matters in Communication-dependent and Hidden-Role Environments"
-  authors: 
-    - name: Lixing Niu
-    - name: Fangwei Zhong
-      website: http://fangweizhong.xyz
-    - name: Haochen Zhao
-    - name: Yisen Wang
-      website: https://yisenwang.github.io
-    - name: Xue Feng
-    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
-      website: https://lifengfan.github.io
-  year: 2024
-  conference: Under Review.
-  tags:
-    - tag: Paper (Coming Soon)
-  image: snowwhite.png
+#- title: "Queen or Dwarf? Theory of Mind Matters in Communication-dependent and Hidden-Role Environments"
+#  authors:
+#    - name: Lixing Niu
+#    - name: Fangwei Zhong
+#      website: http://fangweizhong.xyz
+#    - name: Haochen Zhao
+#    - name: Yisen Wang
+#      website: https://yisenwang.github.io
+#    - name: Xue Feng
+#    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+#      website: https://lifengfan.github.io
+#  year: 2024
+#  conference: Under Review.
+#  tags:
+#    - tag: Paper (Coming Soon)
+#  image: snowwhite.png
 
 
 - title: "Learning Concept-Based Causal Transitions for Visual Planning"
@@ -58,7 +58,16 @@
   year: 2024
   conference: Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci), 2024
   tags:
-    - tag: Paper (Coming soon)
+    - tag: Paper
+      link: assets/paper/CogSci24_evaluate-n-model-social-intelligence.pdf
+    - tag: Demo
+      link: https://vimeo.com/946841179?share=copy
+    - tag: Code
+      link: https://github.com/bigai-ai/Evaluate-n-Model-Social-Intelligence
+    - tag: Dataset (coming soon)
+      link:
+    - tag: Appendix (coming soon)
+      link:
   image: ft_iip.png
   
 
