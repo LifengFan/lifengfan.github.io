@@ -62,10 +62,8 @@
       link: assets/paper/CogSci24_evaluate-n-model-social-intelligence.pdf
     - tag: Demo
       link: https://vimeo.com/946841179?share=copy
-    - tag: Code
+    - tag: Code & Dataset
       link: https://github.com/bigai-ai/Evaluate-n-Model-Social-Intelligence
-    - tag: Dataset (coming soon)
-      link:
     - tag: Appendix (coming soon)
       link:
   image: ft_iip.png
