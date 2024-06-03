@@ -86,7 +86,7 @@
       link: https://arxiv.org/abs/2404.09001
     - tag: Code
       link: https://github.com/bigai-ai/smart-help
-    - tag: Data
+    - tag: Data & Model
       link: https://huggingface.co/datasets/bigai/SmartHelp/tree/main
   image: help_intro.png
 
