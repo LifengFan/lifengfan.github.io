@@ -59,13 +59,13 @@
   conference: Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci), 2024
   tags:
     - tag: Paper
-      link: assets/paper/CogSci24_evaluate-n-model-social-intelligence.pdf
+      link: assets/paper/cogsci24/CogSci24_evaluate-n-model-social-intelligence.pdf
     - tag: Demo
       link: https://vimeo.com/946841179?share=copy
     - tag: Code & Dataset
       link: https://github.com/bigai-ai/Evaluate-n-Model-Social-Intelligence
-    - tag: Appendix (coming soon)
-      link:
+    - tag: Appendix
+      link: assets/paper/cogsci24/appendix.pdf
   image: ft_iip.png
   
 
@@ -87,7 +87,7 @@
     - tag: Code
       link: https://github.com/bigai-ai/smart-help
     - tag: Data
-      link: 
+      link: https://huggingface.co/datasets/bigai/SmartHelp/tree/main
   image: help_intro.png
 
 
