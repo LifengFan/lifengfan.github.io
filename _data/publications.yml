@@ -31,10 +31,14 @@
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2023
-  conference: arXiv, 2023. Under Review.
+  conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
   tags:
-    - tag: Paper
+    - tag: Arxiv
       link: https://browse.arxiv.org/pdf/2310.03325.pdf
+    - tag: Paper (coming soon)
+      link:
+    - tag: Code (coming soon)
+      link:
   image: symbol_reasoning.png
 
 
