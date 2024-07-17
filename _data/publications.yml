@@ -113,8 +113,12 @@
       link: assets/paper/iccv23/03185.pdf
     - tag: Supp
       link: assets/paper/iccv23/03185-supp.pdf
-    - tag: Web
+    - tag: Code
+      link:
+    - tag: Dataset
       link: https://github.com/JoseponLee/IntentQA
+    - tag: Demo
+      link: https://vimeo.com/896083218?share=copy
     - tag: <font color="red"><strong>Oral</strong></font>
   image: iccv23_teaser.png
 
