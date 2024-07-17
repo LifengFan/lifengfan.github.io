@@ -358,6 +358,8 @@
       link: https://github.com/LifengFan/Human-Gaze-Communication
     - tag: Dataset
       link: https://github.com/LifengFan/Human-Gaze-Communication
+    - tag: Demo
+      link: https://vimeo.com/985557163?share=copy
   image: iccv19/iccv19_teaser.jpg
 
 
@@ -382,6 +384,8 @@
       link: https://github.com/LifengFan/Shared-Attention
     - tag: Dataset
       link: https://github.com/LifengFan/Shared-Attention
+    - tag: Demo
+      link: https://vimeo.com/985435528?share=copy
   image: cvpr18/cvpr18_teaser.png
 
 
