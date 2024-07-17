@@ -70,7 +70,7 @@
       link: https://github.com/bigai-ai/Evaluate-n-Model-Social-Intelligence
     - tag: Appendix
       link: assets/paper/cogsci24/appendix.pdf
-  image: assets/paper/cogsci24/ft_iip.png
+  image: cogsci24/ft_iip.png
   
 
 - title: "Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households"
@@ -96,7 +96,7 @@
       link: https://youtu.be/LcFAx_TVRCU
     - tag: Poster
       link: assets/paper/cvpr24/cvpr24-poster.png
-  image: assets/paper/cvpr24/help_intro.png
+  image: cvpr24/help_intro.png
 
 
 
@@ -124,7 +124,7 @@
     - tag: Demo
       link: https://vimeo.com/896083218?share=copy
     - tag: <font color="red"><strong>Oral</strong></font>
-  image: assets/paper/iccv23/iccv23_teaser.png
+  image: iccv23/iccv23_teaser.png
 
 - title: "The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions"
   authors:
@@ -151,7 +151,7 @@
   tags:
     - tag: Paper
       link: https://www.sciencedirect.com/science/article/pii/S209580992300293X
-  image: assets/paper/engineering23/engineering_tongtest.png
+  image: engineering23/engineering_tongtest.png
 
 
 
@@ -187,7 +187,7 @@
   tags:
     - tag: Paper
       link: https://www.sciopen.com/article/10.26599/AIR.2022.9150010
-  image: assets/paper/airesearch/asi.png
+  image: airesearch/asi.png
 
   
 - title: "Emergent Graphical Conventions in a Visual Communication Game"
@@ -213,7 +213,7 @@
       link: https://arxiv.org/abs/2111.14210
     - tag: Web
       link: https://sites.google.com/view/emergent-graphical-conventions
-  image: assets/paper/neurips22/pictionary.gif
+  image: neurips22/pictionary.gif
 
 
 - title: "A Hierarchical Computational Framework for Social Interaction Understanding: Interactiveness, Shared Attention, Gaze Communication and Triadic Belief Dynamics"
