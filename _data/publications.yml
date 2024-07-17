@@ -87,7 +87,7 @@
   conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
   tags:
     - tag: Paper
-      link: https://arxiv.org/abs/2404.09001
+      link: https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Smart_Help_Strategic_Opponent_Modeling_for_Proactive_and_Adaptive_Robot_CVPR_2024_paper.pdf
     - tag: Code
       link: https://github.com/bigai-ai/smart-help
     - tag: Data & Model
