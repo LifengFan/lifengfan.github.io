@@ -356,6 +356,8 @@
       link: assets/paper/iccv19/ICCV19_Gaze_Communication.pdf
     - tag: Code
       link: https://github.com/LifengFan/Human-Gaze-Communication
+    - tag: Dataset
+      link: https://github.com/LifengFan/Human-Gaze-Communication
   image: iccv19/iccv19_teaser.jpg
 
 
@@ -377,6 +379,8 @@
     - tag: Paper
       link: assets/paper/cvpr18/CVPR18_SharedAttention.pdf
     - tag: Code
+      link: https://github.com/LifengFan/Shared-Attention
+    - tag: Dataset
       link: https://github.com/LifengFan/Shared-Attention
   image: cvpr18/cvpr18_teaser.png
 
