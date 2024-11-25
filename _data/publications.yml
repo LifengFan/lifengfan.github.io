@@ -15,6 +15,35 @@
 #    - tag: Paper (Coming Soon)
 #  image: snowwhite.png
 
+- title: "R^3-VQA: “Read the Room” via Video Social Reasoning"
+  authors:
+    - name: Lixing Niu
+      website:
+    - name: Jiapeng Li
+      website:
+    - name: Xingping Yu
+      website:
+    - name: Shu Wang
+      website:
+    - name: Ruining Feng
+      website:
+    - name: Ping Wei
+      website:
+    - name: Yisen Wang
+      website:
+    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+      website: https://lifengfan.github.io/
+  year: 2025
+  conference: Under Review
+  tags:
+    - tag: Arxiv
+      link:
+    - tag: Paper (coming soon)
+      link:
+    - tag: Code (coming soon)
+      link:
+  image: cvpr2025/teaser-ice.png
+
 
 - title: "Learning Concept-Based Causal Transition and Symbolic Reasoning for Visual Planning"
   authors:
