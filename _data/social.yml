@@ -60,3 +60,22 @@
     source: fa
     name: fa-envelope
     type: far
+
+- name: Blog
+  link: "https://lifengfan.github.io/fanrenxiaosa/"
+  icon:
+    source: fa
+    name: fa-blog
+    type: fas
+
+- name: Fun Stuff
+  link: "https://lifengfan.github.io/fun_stuff/"
+  icon:
+    source: fa
+    name: fa-image
+    type: fas
+
+
+
+
+

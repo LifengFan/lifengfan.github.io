@@ -7,17 +7,17 @@
 # - name: CV
 #   link: /cv.html
 #   id: nav_cv
-- name: Blog
-  link: "https://lifengfan.github.io/fanrenxiaosa/"
-  id: nav_blog
-# - name: Programming
-#   link: /programming.html
-#   id: nav_programming
-# - name: Events
-#   link: /events.html
-#   id: nav_events
-- name: Fun Stuff
-#  link: /fun.html
-  link: "https://lifengfan.github.io/fun_stuff/"
-  id: nav_fun
+#- name: Blog
+#  link: "https://lifengfan.github.io/fanrenxiaosa/"
+#  id: nav_blog
+## - name: Programming
+##   link: /programming.html
+##   id: nav_programming
+## - name: Events
+##   link: /events.html
+##   id: nav_events
+#- name: Fun Stuff
+##  link: /fun.html
+#  link: "https://lifengfan.github.io/fun_stuff/"
+#  id: nav_fun
 
