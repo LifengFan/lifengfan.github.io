@@ -20,27 +20,25 @@
     - name: Lixing Niu
       website:
     - name: Jiapeng Li
-      website:
+      website: https://scholar.google.com/citations?user=PbqDF74AAAAJ&hl=en
     - name: Xingping Yu
       website:
     - name: Shu Wang
-      website:
+      website: https://scholar.google.com/citations?user=uPk5l1EAAAAJ&hl=en
     - name: Ruining Feng
       website:
+    - name: Bo Wu
+      website: https://bobbywu.com/
     - name: Ping Wei
-      website:
+      website: https://gr.xjtu.edu.cn/web/pingwei
     - name: Yisen Wang
-      website:
+      website: https://yisenwang.github.io/
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2025
   conference: Under Review
   tags:
-    - tag: Arxiv
-      link:
-    - tag: Paper (coming soon)
-      link:
-    - tag: Code (coming soon)
+    - tag: Arxiv (coming soon)
       link:
   image: cvpr2025/teaser-ice.png
 
