@@ -47,12 +47,7 @@
 #     name: fa-orcid
 #     type: fab
 
-- name: Resume
-  link: https://lifengfan.github.io/assets/paper/resume_lifengfan.pdf
-  icon:
-    soure: fa
-    name: fa-file-alt
-    type: fas
+
     
 - name: Email
   link: mailto:lfan@ucla.edu
@@ -61,19 +56,7 @@
     name: fa-envelope
     type: far
 
-- name: Blog
-  link: "https://lifengfan.github.io/fanrenxiaosa/"
-  icon:
-    source: fa
-    name: fa-blog
-    type: fas
 
-- name: Fun Stuff
-  link: "https://lifengfan.github.io/fun_stuff/"
-  icon:
-    source: fa
-    name: fa-image
-    type: fas
 
 
 
