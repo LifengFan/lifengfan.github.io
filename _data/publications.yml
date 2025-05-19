@@ -36,7 +36,7 @@
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
   year: 2025
-  conference: Under Review
+#  conference: Under Review
   tags:
     - tag: Arxiv
       link: https://arxiv.org/abs/2505.04147
@@ -62,8 +62,7 @@
   tags:
     - tag: Paper
       link: https://browse.arxiv.org/pdf/2310.03325.pdf
-    - tag: Code (coming soon)
-      link:
+
   image: iros24/2024.IROS.teaser.png
 
 
