@@ -38,8 +38,8 @@
   year: 2025
   conference: Under Review
   tags:
-    - tag: Arxiv (coming soon)
-      link:
+    - tag: Arxiv
+      link: https://arxiv.org/abs/2505.04147
   image: cvpr2025/teaser-ice.png
 
 
