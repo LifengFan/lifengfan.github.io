@@ -15,6 +15,98 @@
 #    - tag: Paper (Coming Soon)
 #  image: snowwhite.png
 
+
+- title: "TradeCraft: an Arena for Long-term Strategic Social Reasoning and Planning"
+  authors:
+    - name: Junqi Wang*
+      website:
+    - name: Shaoyang Cui*
+      website:
+    - name: Chunhui Zhang*
+      website:
+    - name: Yuan Zhang
+      website:
+    - name: Jinkai Li
+      website:
+    - name: Zhihao Cao
+      website:
+    - name: Qi Liu
+      website:
+    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+      website: https://lifengfan.github.io/
+  year: 2025
+  conference: Under Review
+  tags:
+    - tag: Arxiv (coming soon)
+      link:
+  image: tradecraft.png
+
+
+- title: "Mindmaster Roleplay: A Social Reasoning and Planning Benchmark"
+  authors:
+    - name: Zhihao Cao*
+      website:
+    - name: Chunhui Zhang*
+      website:
+    - name: Xiaoyi Chen
+      website:
+    - name: Yin Tang
+      website:
+    - name: Manjie Xu
+      website:
+    - name: Liangru Xiang
+      website:
+    - name: Federico Rossano
+      website: https://scholar.google.com/citations?user=tkbxHjsAAAAJ&hl=en
+    - name: Siyuan Qi
+      website: https://siyuanqi.github.io/
+    - name: Yujia Peng
+      website: https://yujiapeng.myfreesites.net/
+    - name: Song-Chun Zhu
+      website: https://zhusongchun.net/
+    - name: Yizhou Wang
+      website: https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm
+    - name: Yixin Zhu<sup>&#x2709;</sup>
+      website: https://yzhu.io/
+    - name: <strong>Lifeng Fan*<sup>&#x2709;</sup></strong>
+      website: https://lifengfan.github.io/
+  year: 2025
+  conference: Under Review
+  tags:
+    - tag: Arxiv (coming soon)
+      link:
+  image: mindmaster_game.png
+
+- title: "Read the Room: Video Social Reasoning with Mental-Physical Causal Chains"
+  authors:
+    - name: Lixing Niu*
+      website:
+    - name: Jiapeng Li*
+      website:
+    - name: Xingping Yu
+      website:
+    - name: Xinyi Dong
+      website:
+    - name: Shu Wang
+      website:
+    - name: Ruining Feng
+      website:
+    - name: Bo Wu
+      website: https://bobbywu.com/
+    - name: Ping Wei
+      website: https://gr.xjtu.edu.cn/web/pingwei
+    - name: Yisen Wang
+      website: https://yisenwang.github.io/
+    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+      website: https://lifengfan.github.io/
+  year: 2025
+  conference: Under Review
+  tags:
+    - tag: Arxiv (coming soon)
+      link:
+  image: read-the-room.png
+
+
 - title: "R^3-VQA: “Read the Room” via Video Social Reasoning"
   authors:
     - name: Lixing Niu*
@@ -41,6 +133,73 @@
     - tag: Arxiv
       link: https://arxiv.org/abs/2505.04147
   image: cvpr2025/teaser-ice.png
+
+
+
+- title: "Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition"
+  authors:
+    - name: Yin Tang
+      website:
+    - name: Jiankai Li
+      website:
+    - name: Jiajun Song
+      website:
+    - name: Hongyu Yang
+      website:
+    - name: Xuan Dong
+      website:
+    - name: <strong>Lifeng Fan</strong>
+      website: https://lifengfan.github.io/
+    - name: Weixin Li<sup>&#x2709;</sup>
+      website: https://irip.buaa.edu.cn/weixinli/index.html
+  year: 2025
+  conference: Under Review
+  tags:
+    - tag: Arxiv
+      link: https://arxiv.org/pdf/2504.18201
+  image: img-intent-recog.png
+
+
+
+- title: "Trigger Modulation via Motion Awareness and Sparse Keyframe Injection for Video Backdoor Attacks"
+  authors:
+    - name: Min Li
+      website:
+    - name: Tangfei Liao
+      website:
+    - name: Chaojian Yu
+      website:
+    - name: <strong>Lifeng Fan</strong>
+      website: https://lifengfan.github.io/
+    - name: Xinge You
+      website: https://scholar.google.com/citations?user=v7bRZX8AAAAJ&hl=zh-CN
+  year: 2025
+  conference: Under Review
+  tags:
+    - tag: Arxiv
+      link:
+  image: video-backdoor-attack.png
+
+
+- title: "Do Theory of Mind Benchmarks Need Explicit Human-like Reasoning in Language Models?"
+  authors:
+    - name: Yi-Long Lu*<sup>&#x2709;</sup>
+      website:
+    - name: Chunhui Zhang*<sup>&#x2709;</sup>
+      website:
+    - name: Jiajun Song
+      website:
+    - name: <strong>Lifeng Fan</strong>
+      website: https://lifengfan.github.io/
+    - name: Wei Wang<sup>&#x2709;</sup>
+      website: https://cognn.com
+  year: 2025
+  conference: Under Review
+  tags:
+    - tag: Arxiv
+      link: https://arxiv.org/pdf/2504.01698
+  image: tom-rl.png
+
 
 
 - title: "Learning Concept-Based Causal Transition and Symbolic Reasoning for Visual Planning"
