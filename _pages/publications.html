@@ -13,6 +13,30 @@ text_width: is-two-thirds
 {% include publication-item.html %}
 {% endfor %}
 
+<script>
+function unifyPaperHeights() {
+    const papers = document.querySelectorAll('.content');
+    let maxHeight = 0;
+
+    // 先清除已有高度，防止重复调用影响
+    papers.forEach(paper => paper.style.height = 'auto');
+
+    // 找出最大的高度
+    papers.forEach(paper => {
+        const h = paper.offsetHeight;
+        if (h > maxHeight) maxHeight = h;
+    });
+
+    // 给所有 paper 设置最大高度
+    papers.forEach(paper => paper.style.height = maxHeight + 'px');
+}
+
+// 页面加载完成后执行
+window.addEventListener('load', unifyPaperHeights);
+
+// 窗口大小变化时重新计算（响应式）
+window.addEventListener('resize', unifyPaperHeights);
+</script>
 
 
 
