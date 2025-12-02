@@ -10,30 +10,6 @@ text_width: is-two-thirds
 
 {% assign publications = site.data.publications | sort: 'year' | reverse %}
 {% for item in site.data.publications %}
-{% include publication-item.html %}
+{% include publication-item.html item=item height="350px" %}
 {% endfor %}
-
-<script>
-function unifyPublicationItemHeights() {
-    const items = document.querySelectorAll('.content'); // 每个publication item的根div
-    let maxHeight = 0;
-
-    // 先重置高度，让计算真实高度
-    items.forEach(item => item.style.height = 'auto');
-
-    // 找出最大高度
-    items.forEach(item => {
-        const h = item.offsetHeight;
-        if (h > maxHeight) maxHeight = h;
-    });
-
-    // 设置所有item的高度为最大值
-    items.forEach(item => item.style.height = maxHeight + 'px');
-}
-
-// 等待图片加载完成后再执行
-window.addEventListener('load', unifyPublicationItemHeights);
-window.addEventListener('resize', unifyPublicationItemHeights);
-</script>
-
 
