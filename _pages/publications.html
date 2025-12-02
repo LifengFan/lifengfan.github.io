@@ -14,29 +14,26 @@ text_width: is-two-thirds
 {% endfor %}
 
 <script>
-function unifyPaperHeights() {
-    const papers = document.querySelectorAll('.content');
+function unifyPublicationItemHeights() {
+    const items = document.querySelectorAll('.content'); // 每个publication item的根div
     let maxHeight = 0;
 
-    // 先清除已有高度，防止重复调用影响
-    papers.forEach(paper => paper.style.height = 'auto');
+    // 先重置高度，让计算真实高度
+    items.forEach(item => item.style.height = 'auto');
 
-    // 找出最大的高度
-    papers.forEach(paper => {
-        const h = paper.offsetHeight;
+    // 找出最大高度
+    items.forEach(item => {
+        const h = item.offsetHeight;
         if (h > maxHeight) maxHeight = h;
     });
 
-    // 给所有 paper 设置最大高度
-    papers.forEach(paper => paper.style.height = maxHeight + 'px');
+    // 设置所有item的高度为最大值
+    items.forEach(item => item.style.height = maxHeight + 'px');
 }
 
-// 页面加载完成后执行
-window.addEventListener('load', unifyPaperHeights);
-
-// 窗口大小变化时重新计算（响应式）
-window.addEventListener('resize', unifyPaperHeights);
+// 等待图片加载完成后再执行
+window.addEventListener('load', unifyPublicationItemHeights);
+window.addEventListener('resize', unifyPublicationItemHeights);
 </script>
-
 
 
