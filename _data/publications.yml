@@ -77,44 +77,36 @@
 #      link:
 #  image: mindmaster_game.png
 
-#- title: "Read the Room: Video Social Reasoning with Mental-Physical Causal Chains"
+
+#- title: "Trigger Modulation via Motion Awareness and Sparse Keyframe Injection for Video Backdoor Attacks"
 #  authors:
-#    - name: Lixing Niu*
+#    - name: Min Li
 #      website:
-#    - name: Jiapeng Li*
+#    - name: Tangfei Liao
 #      website:
-#    - name: Xingping Yu
+#    - name: Chaojian Yu
 #      website:
-#    - name: Xinyi Dong
-#      website:
-#    - name: Shu Wang
-#      website:
-#    - name: Ruining Feng
-#      website:
-#    - name: Bo Wu
-#      website: https://bobbywu.com/
-#    - name: Ping Wei
-#      website: https://gr.xjtu.edu.cn/web/pingwei
-#    - name: Yisen Wang
-#      website: https://yisenwang.github.io/
-#    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+#    - name: <strong>Lifeng Fan</strong>
 #      website: https://lifengfan.github.io/
+#    - name: Xinge You
+#      website: https://scholar.google.com/citations?user=v7bRZX8AAAAJ&hl=zh-CN
 #  year: 2025
 #  conference: Under Review
 #  tags:
-#    - tag: Arxiv (coming soon)
+#    - tag: Arxiv
 #      link:
-#  image: read-the-room.png
+#  image: video-backdoor-attack.png
 
 
-
-- title: "R^3-VQA: “Read the Room” via Video Social Reasoning"
+- title: "Read the Room: Video Social Reasoning with Mental-Physical Causal Chains"
   authors:
     - name: Lixing Niu*
       website:
     - name: Jiapeng Li*
       website: https://scholar.google.com/citations?user=PbqDF74AAAAJ&hl=en
     - name: Xingping Yu
+      website:
+    - name: Xinyi Dong
       website:
     - name: Shu Wang
       website: https://scholar.google.com/citations?user=uPk5l1EAAAAJ&hl=en
@@ -128,13 +120,13 @@
       website: https://yisenwang.github.io/
     - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
       website: https://lifengfan.github.io/
-  year: 2025
-#  conference: Under Review
+  year: 2026
+  conference: International Conference on Learning Representations (ICLR), 2026.
   tags:
-    - tag: Arxiv
+    - tag: Arxiv Version
       link: https://arxiv.org/abs/2505.04147
+    - tag: Paper (coming)
   image: cvpr2025/teaser-ice.png
-
 
 
 - title: "Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition"
@@ -160,28 +152,6 @@
       link: https://arxiv.org/pdf/2504.18201
   image: img-intent-recog.png
 
-
-
-#- title: "Trigger Modulation via Motion Awareness and Sparse Keyframe Injection for Video Backdoor Attacks"
-#  authors:
-#    - name: Min Li
-#      website:
-#    - name: Tangfei Liao
-#      website:
-#    - name: Chaojian Yu
-#      website:
-#    - name: <strong>Lifeng Fan</strong>
-#      website: https://lifengfan.github.io/
-#    - name: Xinge You
-#      website: https://scholar.google.com/citations?user=v7bRZX8AAAAJ&hl=zh-CN
-#  year: 2025
-#  conference: Under Review
-#  tags:
-#    - tag: Arxiv
-#      link:
-#  image: video-backdoor-attack.png
-
-
 - title: "Do Theory of Mind Benchmarks Need Explicit Human-like Reasoning in Language Models?"
   authors:
     - name: Yi-Long Lu*<sup>&#x2709;</sup>
@@ -200,7 +170,6 @@
     - tag: Arxiv
       link: https://arxiv.org/pdf/2504.01698
   image: tom-rl.png
-
 
 
 - title: "Learning Concept-Based Causal Transition and Symbolic Reasoning for Visual Planning"
