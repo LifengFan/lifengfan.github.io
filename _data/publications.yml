@@ -97,12 +97,27 @@
 #      link:
 #  image: video-backdoor-attack.png
 
+- title: "PureSpace: A Benchmark for Abstract Spatial Reasoning in Vision-Language Models"
+  authors:
+    - name: Jinkai Li
+      website: https://scholar.google.com/citations?hl=zh-CN&user=3rayCDAAAAAJ
+    - name: Zhenliang Zhang
+      website: https://www.zlz.link
+    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+      website: https://lifengfan.github.io/
+    - name: Wei Wang<sup>&#x2709;</sup>
+      website: https://cognn.com
+  year: 2026
+  conference: CVPR Findings, 2026.
+  tags:
+    - tag: Paper (coming)
+  image: cvpr2026finding-pipeline.pdf
 
 - title: "Read the Room: Video Social Reasoning with Mental-Physical Causal Chains"
   authors:
-    - name: Lixing Niu*
+    - name: Lixing Niu
       website:
-    - name: Jiapeng Li*
+    - name: Jiapeng Li
       website: https://scholar.google.com/citations?user=PbqDF74AAAAJ&hl=en
     - name: Xingping Yu
       website:
