@@ -459,64 +459,64 @@
   image: cvpr21/motivation.png
 
 
-- title: "Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Human-like Commonsense"
-  authors:
-    - name: Yixin Zhu<sup>&#x2709;</sup>
-      website: https://yzhu.io/
-    - name: Tao Gao
-      website: http://www.stat.ucla.edu/~taogao/
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Siyuan Huang
-      website: https://siyuanhuang.com/
-    - name: Mark Edmonds
-      website: http://www.mjedmonds.com/
-    - name: Hangxin Liu
-      website: https://liuhx111.github.io/
-    - name: Feng Gao
-      website: https://fen9.github.io/
-    - name: Chi Zhang
-      website: http://wellyzhang.github.io/
-    - name: Siyuan Qi
-      website: https://siyuanqi.github.io/
-    - name: Yingnian Wu
-      website: http://www.stat.ucla.edu/~ywu/
-    - name: Joshua B. Tenenbaum
-      website: https://web.mit.edu/cocosci/josh.html
-    - name: Song-Chun Zhu
-      website: https://zhusongchun.net/
-  year: 2020
-  journal: Engineering, Special Issue on Artificial Intelligence, 2020.
-  tags:
-    - tag: Paper
-      link: assets/paper/dark/dark.pdf
-  image: dark/motivation.png
+#- title: "Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Human-like Commonsense"
+#  authors:
+#    - name: Yixin Zhu<sup>&#x2709;</sup>
+#      website: https://yzhu.io/
+#    - name: Tao Gao
+#      website: http://www.stat.ucla.edu/~taogao/
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Siyuan Huang
+#      website: https://siyuanhuang.com/
+#    - name: Mark Edmonds
+#      website: http://www.mjedmonds.com/
+#    - name: Hangxin Liu
+#      website: https://liuhx111.github.io/
+#    - name: Feng Gao
+#      website: https://fen9.github.io/
+#    - name: Chi Zhang
+#      website: http://wellyzhang.github.io/
+#    - name: Siyuan Qi
+#      website: https://siyuanqi.github.io/
+#    - name: Yingnian Wu
+#      website: http://www.stat.ucla.edu/~ywu/
+#    - name: Joshua B. Tenenbaum
+#      website: https://web.mit.edu/cocosci/josh.html
+#    - name: Song-Chun Zhu
+#      website: https://zhusongchun.net/
+#  year: 2020
+#  journal: Engineering, Special Issue on Artificial Intelligence, 2020.
+#  tags:
+#    - tag: Paper
+#      link: assets/paper/dark/dark.pdf
+#  image: dark/motivation.png
+#
 
-
-- title: "Understanding False-Belief by Joint Inference of Object States, Robot Knowledge, and Human (False-)Beliefs"
-  authors:
-    - name: Tao Yuan
-      website: https://scholar.google.com/citations?user=ZqfUSEkAAAAJ&hl=zh-CN
-    - name: Hangxin Liu
-      website: https://liuhx111.github.io/
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Zilong Zheng
-      website: https://zilongzheng.github.io/
-    - name: Tao Gao
-      website: http://www.stat.ucla.edu/~taogao/
-    - name: Yixin Zhu
-      website: https://yzhu.io/
-    - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      website: https://zhusongchun.net/
-  year: 2020
-  conference: The IEEE International Conference on Robotics and Automation (ICRA), 2020.
-  tags:
-    - tag: Paper
-      link: assets/paper/icra20/icra.pdf
-    - tag: Demo
-      link: https://vimeo.com/391734593
-  image: icra20/teaser.png
+#- title: "Understanding False-Belief by Joint Inference of Object States, Robot Knowledge, and Human (False-)Beliefs"
+#  authors:
+#    - name: Tao Yuan
+#      website: https://scholar.google.com/citations?user=ZqfUSEkAAAAJ&hl=zh-CN
+#    - name: Hangxin Liu
+#      website: https://liuhx111.github.io/
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Zilong Zheng
+#      website: https://zilongzheng.github.io/
+#    - name: Tao Gao
+#      website: http://www.stat.ucla.edu/~taogao/
+#    - name: Yixin Zhu
+#      website: https://yzhu.io/
+#    - name: Song-Chun Zhu<sup>&#x2709;</sup>
+#      website: https://zhusongchun.net/
+#  year: 2020
+#  conference: The IEEE International Conference on Robotics and Automation (ICRA), 2020.
+#  tags:
+#    - tag: Paper
+#      link: assets/paper/icra20/icra.pdf
+#    - tag: Demo
+#      link: https://vimeo.com/391734593
+#  image: icra20/teaser.png
 
 
 - title: "Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning"
