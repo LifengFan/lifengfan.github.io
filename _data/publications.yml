@@ -571,24 +571,24 @@
   image: cvpr18/cvpr18_teaser.png
 
 
-- title: "Perception of Human Interaction Based on Motion Trajectories: from Aerial Videos to Decontextualized Animations"
-  authors:
-    - name: Tianmin Shu*<sup>&#x2709;</sup>
-      website: https://www.tshu.io/
-    - name: Yujia Peng*
-      website: https://yujiapeng.com/
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Hongjing Lu
-      website: http://cvl.psych.ucla.edu/
-    - name: Song-Chun Zhu
-      website: https://zhusongchun.net/
-  year: 2018
-  journal: Topics in Cognitive Science, 2018.
-  tags:
-    - tag: Paper
-      link: assets/paper/cogsci17/topics.pdf
-  image: cogsci17/topics_teaser.jpg
+#- title: "Perception of Human Interaction Based on Motion Trajectories: from Aerial Videos to Decontextualized Animations"
+#  authors:
+#    - name: Tianmin Shu*<sup>&#x2709;</sup>
+#      website: https://www.tshu.io/
+#    - name: Yujia Peng*
+#      website: https://yujiapeng.com/
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Hongjing Lu
+#      website: http://cvl.psych.ucla.edu/
+#    - name: Song-Chun Zhu
+#      website: https://zhusongchun.net/
+#  year: 2018
+#  journal: Topics in Cognitive Science, 2018.
+#  tags:
+#    - tag: Paper
+#      link: assets/paper/cogsci17/topics.pdf
+#  image: cogsci17/topics_teaser.jpg
 
 
 #- title: "Inferring Human Interaction from Motion Trajectories in Aerial Videos"
