@@ -97,6 +97,36 @@
 #      link:
 #  image: video-backdoor-attack.png
 
+- title: "IntentQA: Intent Question Answering in Videos by Cognitive Context Reasoning"
+  authors:
+    - name: Jiapeng Li
+      website: https://scholar.google.com/citations?user=PbqDF74AAAAJ&hl=en
+    - name: Ping Wei<sup>&#x2709;</sup>
+      website: https://gr.xjtu.edu.cn/web/pingwei
+    - name: Wenjuan Han
+      website: https://winniehan.github.io/#teaching
+    - name: Song-Chun Zhu
+      website: https://zhusongchun.net/
+    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
+      website: https://lifengfan.github.io/
+  year: 2026
+  conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  tags:
+    - tag: Paper
+      link: https://www.computer.org/csdl/journal/tp/5555/01/11506215/2ggMtQ6ezw4
+    - tag: ICCV version
+      link: assets/paper/iccv23/03185.pdf
+    - tag: Supp
+      link: assets/paper/iccv23/03185-supp.pdf
+    - tag: Dataset
+      link: https://github.com/JoseponLee/IntentQA
+    - tag: Demo
+      link: https://vimeo.com/896083218?share=copy
+#    - tag: <font color="red"><strong>Oral</strong></font>
+  image: iccv23/iccv23_teaser.png
+
+
+
 - title: "PureSpace: A Benchmark for Abstract Spatial Reasoning in Vision-Language Models"
   authors:
     - name: Jinkai Li
@@ -112,6 +142,8 @@
   tags:
     - tag: Paper (coming)
   image: cvpr2026finding-pipeline.png
+
+
 
 - title: "Read the Room: Video Social Reasoning with Mental-Physical Causal Chains"
   authors:
@@ -144,47 +176,47 @@
   image: cvpr2025/teaser-ice.png
 
 
-- title: "Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition"
-  authors:
-    - name: Yin Tang
-      website:
-    - name: Jiankai Li
-      website:
-    - name: Jiajun Song
-      website:
-    - name: Hongyu Yang
-      website:
-    - name: Xuan Dong
-      website:
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Weixin Li<sup>&#x2709;</sup>
-      website: https://irip.buaa.edu.cn/weixinli/index.html
-  year: 2025
-#  conference: Under Review
-  tags:
-    - tag: Arxiv
-      link: https://arxiv.org/pdf/2504.18201
-  image: img-intent-recog.png
+#- title: "Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition"
+#  authors:
+#    - name: Yin Tang
+#      website:
+#    - name: Jiankai Li
+#      website:
+#    - name: Jiajun Song
+#      website:
+#    - name: Hongyu Yang
+#      website:
+#    - name: Xuan Dong
+#      website:
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Weixin Li<sup>&#x2709;</sup>
+#      website: https://irip.buaa.edu.cn/weixinli/index.html
+#  year: 2025
+##  conference: Under Review
+#  tags:
+#    - tag: Arxiv
+#      link: https://arxiv.org/pdf/2504.18201
+#  image: img-intent-recog.png
 
-- title: "Do Theory of Mind Benchmarks Need Explicit Human-like Reasoning in Language Models?"
-  authors:
-    - name: Yi-Long Lu*<sup>&#x2709;</sup>
-      website:
-    - name: Chunhui Zhang*<sup>&#x2709;</sup>
-      website:
-    - name: Jiajun Song
-      website:
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Wei Wang<sup>&#x2709;</sup>
-      website: https://cognn.com
-  year: 2025
-#  conference: Under Review
-  tags:
-    - tag: Arxiv
-      link: https://arxiv.org/pdf/2504.01698
-  image: tom-rl.png
+#- title: "Do Theory of Mind Benchmarks Need Explicit Human-like Reasoning in Language Models?"
+#  authors:
+#    - name: Yi-Long Lu*<sup>&#x2709;</sup>
+#      website:
+#    - name: Chunhui Zhang*<sup>&#x2709;</sup>
+#      website:
+#    - name: Jiajun Song
+#      website:
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Wei Wang<sup>&#x2709;</sup>
+#      website: https://cognn.com
+#  year: 2025
+##  conference: Under Review
+#  tags:
+#    - tag: Arxiv
+#      link: https://arxiv.org/pdf/2504.01698
+#  image: tom-rl.png
 
 
 - title: "Learning Concept-Based Causal Transition and Symbolic Reasoning for Visual Planning"
@@ -268,61 +300,33 @@
   image: cvpr24/help_intro.png
 
 
-
-- title: "IntentQA: Context-aware Video Intent Reasoning"
-  authors:
-    - name: Jiapeng Li
-      website: https://scholar.google.com/citations?user=PbqDF74AAAAJ&hl=en
-    - name: Ping Wei
-      website: https://gr.xjtu.edu.cn/web/pingwei
-    - name: Wenjuan Han
-      website: https://winniehan.github.io/#teaching
-    - name: <strong>Lifeng Fan<sup>&#x2709;</sup></strong>
-      website: https://lifengfan.github.io/
-  year: 2023
-  conference:  The IEEE International Conference on Computer Vision (ICCV), 2023.
-  tags:
-    - tag: Paper
-      link: assets/paper/iccv23/03185.pdf
-    - tag: Supp
-      link: assets/paper/iccv23/03185-supp.pdf
-    - tag: Code
-      link:
-    - tag: Dataset
-      link: https://github.com/JoseponLee/IntentQA
-    - tag: Demo
-      link: https://vimeo.com/896083218?share=copy
-    - tag: <font color="red"><strong>Oral</strong></font>
-  image: iccv23/iccv23_teaser.png
-
-
-- title: "The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions"
-  authors:
-    - name: Yujia Peng
-      website: https://yujiapeng.myfreesites.net/
-    - name: Jiaheng Han
-    - name: Zhenliang Zhang
-      website: https://www.zlz.link
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Tengyu Liu
-      website: https://tengyu.ai/
-    - name: Siyuan Qi
-      website: https://siyuanqi.github.io/
-    - name: Xue Feng
-    - name: Yuxi Ma
-      website: https://mayuxi.com
-    - name: Yizhou Wang
-      website: https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm
-    - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      website: https://zhusongchun.net/
-  year: 2023
-  journal: Engineering, 2023.
-  tags:
-    - tag: Paper
-      link: https://www.sciencedirect.com/science/article/pii/S209580992300293X
-  image: engineering23/engineering_tongtest.png
-
+#- title: "The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions"
+#  authors:
+#    - name: Yujia Peng
+#      website: https://yujiapeng.myfreesites.net/
+#    - name: Jiaheng Han
+#    - name: Zhenliang Zhang
+#      website: https://www.zlz.link
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Tengyu Liu
+#      website: https://tengyu.ai/
+#    - name: Siyuan Qi
+#      website: https://siyuanqi.github.io/
+#    - name: Xue Feng
+#    - name: Yuxi Ma
+#      website: https://mayuxi.com
+#    - name: Yizhou Wang
+#      website: https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm
+#    - name: Song-Chun Zhu<sup>&#x2709;</sup>
+#      website: https://zhusongchun.net/
+#  year: 2023
+#  journal: Engineering, 2023.
+#  tags:
+#    - tag: Paper
+#      link: https://www.sciencedirect.com/science/article/pii/S209580992300293X
+#  image: engineering23/engineering_tongtest.png
+#
 
 
 - title: "Artificial Social Intelligence: A Comparative and Holistic View"
@@ -360,31 +364,31 @@
   image: airesearch/asi.png
 
   
-- title: "Emergent Graphical Conventions in a Visual Communication Game"
-  authors:
-    - name: Shuwen Qiu*
-      website: https://janetalready.github.io/
-    - name: Sirui Xie*
-      website: https://siruixie.com/
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Tao Gao
-      website: http://www.stat.ucla.edu/~taogao/
-    - name: Jungseock Joo
-      website: https://www.jsjoo.com/
-    - name: Song-Chun Zhu
-      website: https://zhusongchun.net/
-    - name: Yixin Zhu<sup>&#x2709;</sup>
-      website: https://yzhu.io/
-  year: 2022
-  conference: Conference on Neural Information Processing Systems (NeurIPS), 2022.
-  tags:
-    - tag: Paper
-      link: https://arxiv.org/abs/2111.14210
-    - tag: Web
-      link: https://sites.google.com/view/emergent-graphical-conventions
-  image: neurips22/pictionary.gif
-
+#- title: "Emergent Graphical Conventions in a Visual Communication Game"
+#  authors:
+#    - name: Shuwen Qiu*
+#      website: https://janetalready.github.io/
+#    - name: Sirui Xie*
+#      website: https://siruixie.com/
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Tao Gao
+#      website: http://www.stat.ucla.edu/~taogao/
+#    - name: Jungseock Joo
+#      website: https://www.jsjoo.com/
+#    - name: Song-Chun Zhu
+#      website: https://zhusongchun.net/
+#    - name: Yixin Zhu<sup>&#x2709;</sup>
+#      website: https://yzhu.io/
+#  year: 2022
+#  conference: Conference on Neural Information Processing Systems (NeurIPS), 2022.
+#  tags:
+#    - tag: Paper
+#      link: https://arxiv.org/abs/2111.14210
+#    - tag: Web
+#      link: https://sites.google.com/view/emergent-graphical-conventions
+#  image: neurips22/pictionary.gif
+#
 
 #- title: "A Hierarchical Computational Framework for Social Interaction Understanding: Interactiveness, Shared Attention, Gaze Communication and Triadic Belief Dynamics"
 #  authors:
@@ -398,26 +402,26 @@
 #  image: thesis/ucla_logo.png
 
 
-- title: "GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning"
-  authors:
-    - name: Zilong Zheng
-      website: https://zilongzheng.github.io/
-    - name: Shuwen Qiu
-      website: https://janetalready.github.io/
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Yixin Zhu
-      website: https://yzhu.io/
-    - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      website: https://zhusongchun.net/
-  year: 2021
-  conference: ACL-Findings, 2021.
-  tags:
-    - tag: Paper
-      link: https://aclanthology.org/2021.findings-acl.182.pdf
-    - tag: Project
-      link: https://zilongzheng.github.io/Grice/
-  image: acl-f/arc.png
+#- title: "GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning"
+#  authors:
+#    - name: Zilong Zheng
+#      website: https://zilongzheng.github.io/
+#    - name: Shuwen Qiu
+#      website: https://janetalready.github.io/
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Yixin Zhu
+#      website: https://yzhu.io/
+#    - name: Song-Chun Zhu<sup>&#x2709;</sup>
+#      website: https://zhusongchun.net/
+#  year: 2021
+#  conference: ACL-Findings, 2021.
+#  tags:
+#    - tag: Paper
+#      link: https://aclanthology.org/2021.findings-acl.182.pdf
+#    - tag: Project
+#      link: https://zilongzheng.github.io/Grice/
+#  image: acl-f/arc.png
 
 - title: "Learning Triadic Belief Dynamics in Nonverbal Communication from Videos"
   authors:
@@ -587,25 +591,25 @@
   image: cogsci17/topics_teaser.jpg
 
 
-- title: "Inferring Human Interaction from Motion Trajectories in Aerial Videos"
-  authors:
-    - name: Tianmin Shu*
-      website: https://www.tshu.io/
-    - name: Yujia Peng*
-      website: https://yujiapeng.com/
-    - name: <strong>Lifeng Fan</strong>
-      website: https://lifengfan.github.io/
-    - name: Hongjing Lu
-      website: http://cvl.psych.ucla.edu/
-    - name: Song-Chun Zhu<sup>&#x2709;</sup>
-      website: https://zhusongchun.net/
-  year: 2017
-  conference: Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci), 2017.
-  tags:
-    - tag: Paper
-      link: assets/paper/cogsci17/cogsci.pdf
-    - tag: Web
-      link: https://www.tshu.io/HeiderSimmel/CogSci17/
-    - tag: <font color="red"><strong>Computational Modeling Prize</strong></font>
-  image: cogsci17/cogsci17_teaser.png
-
+#- title: "Inferring Human Interaction from Motion Trajectories in Aerial Videos"
+#  authors:
+#    - name: Tianmin Shu*
+#      website: https://www.tshu.io/
+#    - name: Yujia Peng*
+#      website: https://yujiapeng.com/
+#    - name: <strong>Lifeng Fan</strong>
+#      website: https://lifengfan.github.io/
+#    - name: Hongjing Lu
+#      website: http://cvl.psych.ucla.edu/
+#    - name: Song-Chun Zhu<sup>&#x2709;</sup>
+#      website: https://zhusongchun.net/
+#  year: 2017
+#  conference: Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci), 2017.
+#  tags:
+#    - tag: Paper
+#      link: assets/paper/cogsci17/cogsci.pdf
+#    - tag: Web
+#      link: https://www.tshu.io/HeiderSimmel/CogSci17/
+#    - tag: <font color="red"><strong>Computational Modeling Prize</strong></font>
+#  image: cogsci17/cogsci17_teaser.png
+#
