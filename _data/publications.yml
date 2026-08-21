@@ -170,9 +170,10 @@
   year: 2026
   conference: International Conference on Learning Representations (ICLR), 2026.
   tags:
+    - tag: Paper
+      link: https://proceedings.iclr.cc/paper_files/paper/2026/file/0ba10e63a87590a9364f33b9040e4301-Paper-Conference.pdf
     - tag: Arxiv Version
       link: https://arxiv.org/abs/2505.04147
-    - tag: Paper (coming)
   image: cvpr2025/teaser-ice.png
 
 
