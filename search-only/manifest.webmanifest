@@ -1,0 +1,15 @@
+{
+  "name": "只搜不刷",
+  "short_name": "只搜不刷",
+  "description": "从一个干净的入口直达小红书或知乎搜索。",
+  "lang": "zh-CN",
+  "start_url": "/search-only/",
+  "scope": "/search-only/",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#172033",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

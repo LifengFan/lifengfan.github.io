@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#172033">
+    <meta name="description" content="只搜不刷：从一个干净的入口直达小红书或知乎搜索。">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="只搜不刷">
+    <meta property="og:title" content="只搜不刷">
+    <meta property="og:description" content="主动搜索，不从推荐流开始。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://lifengfan.github.io/search-only/">
+    <title>只搜不刷</title>
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="./icon-180.png">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="launcher" aria-labelledby="page-title">
+        <div class="brand" aria-hidden="true">
+          <svg viewBox="0 0 64 64" role="img">
+            <circle cx="27" cy="27" r="13"></circle>
+            <path d="M37 37 50 50"></path>
+          </svg>
+        </div>
+        <p class="eyebrow">SEARCH WITH INTENTION</p>
+        <h1 id="page-title">只搜，不刷</h1>
+        <p class="intro">选择平台，输入你真正想找的内容。</p>
+
+        <div class="platforms" role="radiogroup" aria-label="选择搜索平台">
+          <button class="platform active" type="button" role="radio" aria-checked="true" data-site="xiaohongshu">
+            <span class="platform-mark xhs">红</span>
+            <span><strong>小红书</strong><small>网页版搜索</small></span>
+          </button>
+          <button class="platform" type="button" role="radio" aria-checked="false" data-site="zhihu">
+            <span class="platform-mark zhihu">知</span>
+            <span><strong>知乎</strong><small>内容搜索</small></span>
+          </button>
+        </div>
+
+        <form id="search-form" novalidate>
+          <label for="keyword">搜索关键词</label>
+          <div class="search-box">
+            <input id="keyword" name="keyword" type="search" maxlength="200" autocomplete="off"
+                   enterkeyhint="search" placeholder="今天想找什么？" required>
+            <button id="search-button" type="submit">搜索</button>
+          </div>
+          <p id="error" class="error" role="alert"></p>
+        </form>
+
+        <p class="privacy">关键词只在你的浏览器中用于生成搜索链接，不会上传到本站。</p>
+      </section>
+
+      <section class="install-card">
+        <div>
+          <h2>放到手机桌面</h2>
+          <p>以后从这个入口开始，而不是从推荐流开始。</p>
+        </div>
+        <button id="install-button" type="button">添加快捷方式</button>
+      </section>
+
+      <dialog id="install-dialog">
+        <form method="dialog">
+          <button class="dialog-close" value="close" aria-label="关闭">×</button>
+          <h2>添加到主屏幕</h2>
+          <div class="instructions ios">
+            <strong>iPhone / iPad</strong>
+            <p>请用 Safari 打开本页，点击底部“分享”，再选择“添加到主屏幕”。</p>
+          </div>
+          <div class="instructions android">
+            <strong>Android</strong>
+            <p>请用 Chrome 打开本页，点击右上角菜单，选择“添加到主屏幕”或“安装应用”。</p>
+          </div>
+          <button class="dialog-ok" value="close">知道了</button>
+        </form>
+      </dialog>
+
+      <footer>
+        <p>这是搜索快捷入口，无法修改或限制目标网站及 App 内部的推荐内容。</p>
+        <a href="/">Lifeng Fan</a>
+      </footer>
+    </main>
+    <script src="./app.js" defer></script>
+  </body>
+</html>
